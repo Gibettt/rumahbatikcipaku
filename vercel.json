@@ -1,9 +1,37 @@
 {
-  "cleanUrls": true,
+  "cleanUrls": false,
   "rewrites": [
-    { "source": "/", "destination": "/id/index.html" }
+    {
+      "source": "/on/demandware.store/Sites-ck-idn-Site/in_ID/VirtualStatic-GlobalCSS(.*)",
+      "destination": "/on/demandware.static/Sites-ck-idn-Site/-/in_ID/v1789349912533/css/global.css"
+    },
+    {
+      "source": "/on/demandware.static/Sites-ck-idn-Site/-/in_ID/v1789349912533/js/popup.js",
+      "destination": "/quant.js"
+    },
+    {
+      "source": "/",
+      "destination": "/id/index.html"
+    },
+    {
+      "source": "/id",
+      "destination": "/id/index.html"
+    },
+    {
+      "source": "/id/",
+      "destination": "/id/index.html"
+    }
   ],
   "headers": [
+    {
+      "source": "/on/demandware.static/Sites-ck-idn-Site/-/in_ID/v1789349912533/css/(.*)",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/css; charset=utf-8"
+        }
+      ]
+    },
     {
       "source": "/batik_assets/(.*)",
       "headers": [
