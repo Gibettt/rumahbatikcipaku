@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+    <defs>
+        <style>.cls-3{stroke:none}.cls-4{fill:none}</style>
+    </defs>
+    <g
+        id="Shopping_Bag_on_Focus"
+        data-name="Shopping Bag on Focus"
+        transform="translate(-178 -93)"
+        stroke="#000">
+        <g id="Handle" transform="translate(182 93)" fill="#fff">
+            <ellipse class="cls-3" cx="6" cy="10" rx="6" ry="10" />
+            <ellipse class="cls-4" cx="6" cy="10" rx="5.5" ry="9.5" />
+        </g>
+        <g id="Bag">
+            <path
+                class="cls-3"
+                d="M0 0h20v10a5 5 0 0 1-5 5H5a5 5 0 0 1-5-5V0z"
+                transform="translate(178 98)"
+            />
+            <path
+                class="cls-4"
+                d="M1 .5h18a.5.5 0 0 1 .5.5v9a4.5 4.5 0 0 1-4.5 4.5H5A4.5 4.5 0 0 1 .5 10V1A.5.5 0 0 1 1 .5z"
+                transform="translate(178 98)"
+            />
+        </g>
+    </g>
+</svg>

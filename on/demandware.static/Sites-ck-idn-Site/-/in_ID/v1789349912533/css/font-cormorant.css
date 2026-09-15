@@ -1,0 +1,29 @@
+/* stylelint-disable */
+@font-face {
+    font-family: "Cormorant";
+    src: url("../fonts/cormorant-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/cormorant-bold-webfont.woff2") format("woff2"), url("../fonts/cormorant-bold-webfont.woff") format("woff"), url("../fonts/cormorant-bold-webfont.ttf") format("truetype"), url("../fonts/cormorant-bold-webfont.svg#cormorant_bold") format("svg");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Cormorant";
+    src: url("../fonts/cormorant-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/cormorant-bolditalic-webfont.woff2") format("woff2"), url("../fonts/cormorant-bolditalic-webfont.woff") format("woff"), url("../fonts/cormorant-bolditalic-webfont.ttf") format("truetype"), url("../fonts/cormorant-bolditalic-webfont.svg#cormorant_bold_italic") format("svg");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Cormorant";
+    src: url("../fonts/cormorant-italic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/cormorant-italic-webfont.woff2") format("woff2"), url("../fonts/cormorant-italic-webfont.woff") format("woff"), url("../fonts/cormorant-italic-webfont.ttf") format("truetype"), url("../fonts/cormorant-italic-webfont.svg#cormorant_italic") format("svg");
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Cormorant";
+    src: url("../fonts/cormorant-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/cormorant-regular-webfont.woff2") format("woff2"), url("../fonts/cormorant-regular-webfont.woff") format("woff"), url("../fonts/cormorant-regular-webfont.ttf") format("truetype"), url("../fonts/cormorant-regular-webfont.svg#cormorant_regular") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

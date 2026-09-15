@@ -1,0 +1,124 @@
+/* stylelint-disable scss/dollar-variable-pattern */
+/* stylelint-enable scss/dollar-variable-pattern */
+/* correction for product tile hover border*/
+.product_retirement-modal_body {
+    padding-bottom: 28px;
+    overflow: auto;
+}
+@media (min-width: 768px) {
+    .product_retirement-modal_body {
+        height: 730px;
+    }
+}
+@media (min-width: 1280px) {
+    .product_retirement-modal_body {
+        padding: 1.25rem 40px 53px;
+    }
+}
+.product_retirement-modal_body .carousel-next,
+.product_retirement-modal_body .carousel-prev {
+    display: none !important;
+}
+.product_retirement-content {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    border: 0;
+    border-radius: 0;
+    overflow-y: auto;
+}
+@media (min-width: 768px) {
+    .product_retirement-content {
+        position: relative;
+        bottom: auto;
+        margin: 20px auto;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        border-radius: 5px;
+    }
+}
+.product_retirement-title {
+    margin-top: 14px;
+    margin-bottom: 30px;
+    font-size: 24px;
+    text-align: left;
+}
+@media (min-width: 768px) {
+    .product_retirement-title {
+        margin-bottom: 40px;
+        font-size: 28px;
+        text-align: center;
+    }
+}
+.product_retirement-product_img {
+    width: 104px;
+    height: 139px;
+}
+@media (min-width: 768px) {
+    .product_retirement-product_img {
+        width: 200px;
+        height: 267px;
+    }
+}
+.product_retirement-product_img--gift {
+    border-radius: 5px;
+}
+.product_retirement-product_details {
+    width: 60%;
+    padding-left: 10px;
+}
+@media (min-width: 768px) {
+    .product_retirement-product_details {
+        width: 70%;
+        padding-left: 30px;
+    }
+}
+@media (min-width: 768px) {
+    .product_retirement-product_title_wrap {
+        display: flex;
+    }
+}
+@media (min-width: 768px) {
+    .product_retirement-product_name {
+        font-size: 18px;
+    }
+}
+.product_retirement-product_price {
+    margin-top: 12px;
+}
+@media (min-width: 768px) {
+    .product_retirement-product_price {
+        margin-top: 4px;
+        margin-left: auto;
+    }
+}
+.product_retirement-sku {
+    padding-top: 0;
+}
+
+.product_retirement-tabs {
+    margin-top: 20px;
+}
+@media (min-width: 768px) {
+    .product_retirement-tabs {
+        margin-top: 30px;
+    }
+}
+.product_retirement-tabs .nav {
+    text-transform: uppercase;
+}
+
+.product_retirement-modal {
+    padding: 0 !important;
+}
+.product_retirement-modal .bs-modal_fix {
+    padding: 0;
+}
+@media (min-width: 768px) {
+    .product_retirement-modal .bs-modal_fix {
+        padding: 0 20px;
+    }
+}
+
+.recommendations .product_tile-image {
+    min-height: auto !important;
+}

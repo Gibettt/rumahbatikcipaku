@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[2052],{52052(e){e.exports={init:()=>{const e=$(".js-breadcrumb--truncated");if(e.length){const s=2*parseFloat(e.css("line-height"))+12;e[0].scrollHeight<s&&e.find(".breadcrumb-item").css("word-break","break-word")}}}}}]);

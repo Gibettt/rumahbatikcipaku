@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[1101],{31101(e,t,u){u.d(t,{default:()=>s});var l=u(89680),n=u(54653);const p={type:"slide",perPage:1,autoplay:!1},s={Splide:l.Ay,initSplide:(e,t={},u=!1)=>{const s={...p,...t},a=new l.Ay(e,s);return u?a.mount({AutoScroll:n.Z}):a.mount(),a}}}}]);

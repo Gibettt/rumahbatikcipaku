@@ -1,0 +1,64 @@
+/* stylelint-disable scss/dollar-variable-pattern */
+/* stylelint-enable scss/dollar-variable-pattern */
+/* correction for product tile hover border*/
+.atome-msg_link {
+    color: #999;
+    text-decoration: underline;
+}
+.atome-widget {
+    font-size: 14px;
+}
+.atome-content_information {
+    width: inherit;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+}
+.atome-content_title_text {
+    margin-bottom: 0;
+}
+
+.atome_popup {
+    padding: 0 20px 40px;
+}
+.atome_popup-logo {
+    width: 110px;
+    height: 70px;
+}
+.atome_popup-img {
+    text-align: center;
+}
+.atome_popup-text {
+    line-height: 24px;
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+.atome_popup-button {
+    max-width: 290px;
+    margin: 0 auto;
+}
+.atome_popup-title_text {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.atome_popup-icon {
+    width: 100%;
+}
+.atome_popup-space_bottom {
+    margin-bottom: 20px;
+}
+.atome_popup-button_space_top {
+    margin-top: 20px;
+}
+
+.atome_place_order_text {
+    display: block !important;
+}
+
+.product_atome_message-atome_payment {
+    vertical-align: middle;
+    margin-top: -4px;
+    margin-right: 10px;
+    margin-left: 2px;
+}

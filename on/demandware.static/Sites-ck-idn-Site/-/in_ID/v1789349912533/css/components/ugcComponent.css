@@ -1,0 +1,323 @@
+/* stylelint-disable scss/dollar-variable-pattern */
+/* stylelint-enable scss/dollar-variable-pattern */
+/* correction for product tile hover border*/
+.spinner {
+    position: absolute;
+    top: 45%;
+    left: calc(50% - 15px);
+    z-index: 101;
+    width: 30px;
+    height: 30px;
+    border: 3px solid #f0f0f0;
+    border-top: 3px solid #999;
+    border-radius: 50%;
+    animation: spin 2s linear infinite;
+}
+
+.underlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 100;
+    background-color: #fff;
+    opacity: 0.7;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+.ck-loading:empty {
+    height: 100px;
+    background-image: url("../images/ck-loading.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.ugc_carousel {
+    position: relative;
+    padding: 0;
+}
+@media (min-width: 768px) {
+    .ugc_carousel {
+        padding: 0 50px;
+    }
+}
+.ugc_carousel-container {
+    padding-bottom: 30px;
+}
+.ugc_carousel-button {
+    position: absolute;
+    top: 50%;
+    z-index: 1000;
+    padding: 13px;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+.ugc_carousel-button--prev {
+    left: 0;
+}
+.ugc_carousel-button--next {
+    right: 0;
+}
+@media (max-width: 767.98px) {
+    .ugc_carousel .ugc_carousel-button {
+        display: none;
+    }
+}
+.ugc_carousel-slide {
+    overflow: hidden;
+    cursor: pointer;
+}
+@media (min-width: 768px) {
+    .ugc_carousel-slide {
+        max-width: 25%;
+    }
+}
+.ugc_carousel-slide--4x5 {
+    aspect-ratio: 4/5;
+}
+.ugc_carousel-view_more {
+    display: block;
+    padding: 15px 15px 50px;
+    color: #000;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+.ugc_carousel-video {
+    width: 100%;
+    height: 100%;
+}
+.ugc_carousel-video_player {
+    width: 100%;
+    cursor: pointer;
+}
+
+.ugc_item_overlay {
+    position: absolute;
+    top: 50%;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    width: 100%;
+    height: 50%;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.8) 0%, rgba(102, 102, 102, 0) 66.09%);
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out;
+}
+@media (max-width: 767.98px) {
+    .ugc_item_overlay {
+        display: none;
+    }
+}
+.ugc_item_overlay-content {
+    position: absolute;
+    right: 15px;
+    bottom: 15px;
+    display: flex;
+    max-width: calc(100% - 30px);
+}
+@media (min-width: 768px) {
+    .ugc_item_overlay-content {
+        max-width: calc(100% - 110px);
+    }
+}
+.ugc_item_overlay-icon.icon {
+    width: 20px;
+    height: 20px;
+    display: block;
+    margin-right: 5px;
+    fill: #fff;
+}
+.ugc_item_overlay-nickname {
+    position: relative;
+    margin: 0;
+    color: #fff;
+    font-size: 0.875rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.ugc_item_overlay-nickname::after {
+    content: "";
+    position: absolute;
+    bottom: 3px;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background-color: #fff;
+}
+@media (min-width: 1024px) {
+    .ugc_carousel-slide:hover .ugc_item_overlay, .ugc_list-item:hover .ugc_item_overlay {
+        opacity: 1;
+    }
+}
+.ugc_item-image {
+    display: block;
+    width: 100%;
+}
+
+.ugc_list {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    gap: 2px;
+}
+@media (min-width: 768px) {
+    .ugc_list {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+.ugc_list-item {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+.ugc_list-item--4x5 {
+    aspect-ratio: 4/5;
+}
+.ugc_list-load_more {
+    position: relative;
+    height: 50px;
+    margin: 20px 0;
+    text-align: center;
+}
+@media (min-width: 768px) {
+    .ugc_list-load_more {
+        margin-top: 30px;
+    }
+}
+.ugc_list-load_more_btn {
+    padding: 10px 15px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.ugc_list-load_more_btn.hidden {
+    display: none;
+}
+
+.ugc_video-player_control {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+}
+.ugc_video-player_control_group {
+    position: relative;
+    min-width: 32px;
+    min-height: 32px;
+    padding: 0;
+}
+.ugc_video-player_controls {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 15px;
+}
+.ugc_video-play {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+[dir=rtl] .ugc_video-play {
+    right: auto;
+    left: 50%;
+}
+.ugc_video-play_icon {
+    width: 44px;
+    height: 44px;
+}
+.ugc_video-mute, .ugc_video-unmute {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.ugc_video-mute_icon, .ugc_video-unmute_icon, .ugc_video-pause_icon {
+    width: 30px;
+    height: 30px;
+    border: 0.5px solid #f0f0f0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+}
+
+.icon {
+    flex-shrink: 0;
+    fill: currentColor;
+}
+
+.ugc-control_icon {
+    position: relative;
+    width: 15px;
+    height: 30px;
+}
+
+.swiper_button--disabled {
+    opacity: 1;
+    color: #f0f0f0;
+    pointer-events: none;
+}
+.swiper_button--hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.close {
+    width: 29px;
+    height: 29px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    display: inline-flex;
+    border-radius: 3px;
+    background-color: #333;
+    opacity: 1;
+}
+.close:hover, .close:focus {
+    opacity: 1;
+}
+.close:focus {
+    outline: none;
+}
+.close:not(:disabled):not(.disabled):hover, .close:not(:disabled):not(.disabled):focus {
+    opacity: 1;
+}
+.close .icon {
+    width: 15px;
+    height: 15px;
+    margin: auto;
+    fill: #ccc;
+}
+
+.hidden {
+    display: none;
+}

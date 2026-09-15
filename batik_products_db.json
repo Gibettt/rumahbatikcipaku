@@ -1,0 +1,3222 @@
+[
+  {
+    "id": "batik-001",
+    "filename": "00_LOGO_Rumah_Batik_Cipaku_HD.jpeg",
+    "image_url": "/batik_assets/00_LOGO_Rumah_Batik_Cipaku_HD.jpeg",
+    "name": "Identitas Resmi: Rumah Batik Cipaku HD",
+    "category": "Logo & Identitas",
+    "price_num": 0,
+    "price_formatted": "-",
+    "description": "Logo resmi Rumah Batik Cipaku Bandung resolusi tinggi (1935x1935 px)."
+  },
+  {
+    "id": "batik-002",
+    "filename": "01_LOKASI_Gapura_Masuk_Cipaku_Indah.jpg",
+    "image_url": "/batik_assets/01_LOKASI_Gapura_Masuk_Cipaku_Indah.jpg",
+    "name": "Gerbang & Rute Galeri Cipaku Indah",
+    "category": "Lokasi & Galeri",
+    "price_num": 0,
+    "price_formatted": "Kunjungan Bebas",
+    "description": "Akses masuk gerbang dan gapura Rumah Batik Cipaku di Jalan Cipaku Indah I No. 14 Bandung."
+  },
+  {
+    "id": "batik-003",
+    "filename": "01_ORANG_PAKAI_BATIK_Busana_Modern_Casual.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Busana_Modern_Casual.jpg",
+    "name": "Busana Batik Modern: Busana Modern Casual",
+    "category": "Koleksi Unggulan Model",
+    "price_num": 890000,
+    "price_formatted": "Rp 890.000",
+    "description": "Koleksi busana batik siap pakai Rumah Batik Cipaku motif Busana Modern Casual."
+  },
+  {
+    "id": "batik-004",
+    "filename": "01_ORANG_PAKAI_BATIK_Gaun_Elegan_Timeless.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Gaun_Elegan_Timeless.jpg",
+    "name": "Gaun Pesta Silk Shibotik Indigo Elegance",
+    "category": "Koleksi Unggulan Model",
+    "price_num": 1450000,
+    "price_formatted": "Rp 1.450.000",
+    "description": "Gaun panjang sutra halus dengan siluet anggun motif shibotik modern."
+  },
+  {
+    "id": "batik-005",
+    "filename": "01_ORANG_PAKAI_BATIK_Kampanye_Satu_Dekade.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Kampanye_Satu_Dekade.jpg",
+    "name": "Mahakarya 1 Dekade Rumah Batik Cipaku",
+    "category": "Koleksi Unggulan Model",
+    "price_num": 2250000,
+    "price_formatted": "Rp 2.250.000",
+    "description": "Edisi perayaan 10 tahun (2016-2026) karya terbaik pengrajin batik Cipaku."
+  },
+  {
+    "id": "batik-006",
+    "filename": "01_ORANG_PAKAI_BATIK_Klasik_Modern_Model.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Klasik_Modern_Model.jpg",
+    "name": "Busana Batik Modern: Klasik Modern Model",
+    "category": "Koleksi Unggulan Model",
+    "price_num": 890000,
+    "price_formatted": "Rp 890.000",
+    "description": "Koleksi busana batik siap pakai Rumah Batik Cipaku motif Klasik Modern Model."
+  },
+  {
+    "id": "batik-007",
+    "filename": "01_ORANG_PAKAI_BATIK_Konsultasi_Kain_Batik.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Konsultasi_Kain_Batik.jpg",
+    "name": "Layanan Konsultasi Kain & Desain Busana",
+    "category": "Koleksi Unggulan Model",
+    "price_num": 450000,
+    "price_formatted": "Mulai Rp 450.000",
+    "description": "Sesi personal mencocokkan kain batik ke tubuh bersama fashion stylist berpengalaman."
+  },
+  {
+    "id": "batik-008",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_01.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_01.jpg",
+    "name": "Tunik Sutra Modern Motif Sekar Jagad",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 795000,
+    "price_formatted": "Rp 795.000",
+    "description": "Tunik Sutra Modern berbahan premium adem memperlihatkan motif Sekar Jagad. Perpaduan ragam motif bunga nusantara yang melambangkan keindahan semesta."
+  },
+  {
+    "id": "batik-009",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_02.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_02.jpg",
+    "name": "Blouse Asimetris Dobby Motif Truntum Asih",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 840000,
+    "price_formatted": "Rp 840.000",
+    "description": "Blouse Asimetris Dobby berbahan premium adem memperlihatkan motif Truntum Asih. Motif bintang lambang cinta abadi dan ketulusan kasih."
+  },
+  {
+    "id": "batik-010",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_03.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_03.jpg",
+    "name": "Gaun Silk Shibotik Motif Parang Kencana",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 885000,
+    "price_formatted": "Rp 885.000",
+    "description": "Gaun Silk Shibotik berbahan premium adem memperlihatkan motif Parang Kencana. Motif klasik keraton dengan sentuhan prada emas keanggunan."
+  },
+  {
+    "id": "batik-011",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_04.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_04.jpg",
+    "name": "Outer Kencana Wungu Motif Shibotik Indigo",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 930000,
+    "price_formatted": "Rp 930.000",
+    "description": "Outer Kencana Wungu berbahan premium adem memperlihatkan motif Shibotik Indigo. Teknik shibori kontemporer berpadu canting batik malam dingin."
+  },
+  {
+    "id": "batik-012",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_05.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_05.jpg",
+    "name": "Kebayang Modern Kartini Motif Megamendung Sky",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 975000,
+    "price_formatted": "Rp 975.000",
+    "description": "Kebayang Modern Kartini berbahan premium adem memperlihatkan motif Megamendung Sky. Awan bertingkat lambang keteduhan, kesabaran, dan kemakmuran."
+  },
+  {
+    "id": "batik-013",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_06.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_06.jpg",
+    "name": "Dress Pesta Eksklusif Motif Kawung Galar",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1020000,
+    "price_formatted": "Rp 1.020.000",
+    "description": "Dress Pesta Eksklusif berbahan premium adem memperlihatkan motif Kawung Galar. Bentuk empat lonjong simetris lambang kesucian budi dan ketulusan."
+  },
+  {
+    "id": "batik-014",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_07.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_07.jpg",
+    "name": "Setelan Kulot & Atasan Motif Sidomukti Luhur",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1065000,
+    "price_formatted": "Rp 1.065.000",
+    "description": "Setelan Kulot & Atasan berbahan premium adem memperlihatkan motif Sidomukti Luhur. Doa pengharapan kemakmuran, derajat luhur, dan kebahagiaan sejati."
+  },
+  {
+    "id": "batik-015",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_08.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_08.jpg",
+    "name": "Kemeja Wanita Tailored Motif Gurdo Pusaka",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1110000,
+    "price_formatted": "Rp 1.110.000",
+    "description": "Kemeja Wanita Tailored berbahan premium adem memperlihatkan motif Gurdo Pusaka. Sayap garuda lambang wibawa kepemimpinan dan perlindungan."
+  },
+  {
+    "id": "batik-016",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_09.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_09.jpg",
+    "name": "Kimono Outer Silk Motif Sogan Nitik",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1155000,
+    "price_formatted": "Rp 1.155.000",
+    "description": "Kimono Outer Silk berbahan premium adem memperlihatkan motif Sogan Nitik. Titik-titik halus geometri tenun keraton khas Solo-Yogya."
+  },
+  {
+    "id": "batik-017",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_10.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_10.jpg",
+    "name": "Maxi Dress Flowy Motif Pekalongan Asri",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1200000,
+    "price_formatted": "Rp 1.200.000",
+    "description": "Maxi Dress Flowy berbahan premium adem memperlihatkan motif Pekalongan Asri. Bungaan pesisir penuh warna ceria nan memikat."
+  },
+  {
+    "id": "batik-018",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_11.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_11.jpg",
+    "name": "Blazer Batik Kantor Motif Cirebonan Cendrawasih",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1245000,
+    "price_formatted": "Rp 1.245.000",
+    "description": "Blazer Batik Kantor berbahan premium adem memperlihatkan motif Cirebonan Cendrawasih. Motif flora fauna burung khayangan yang memesona."
+  },
+  {
+    "id": "batik-019",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_12.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_12.jpg",
+    "name": "Tunik Kerah Sanghai Motif Garutan Asri",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1290000,
+    "price_formatted": "Rp 1.290.000",
+    "description": "Tunik Kerah Sanghai berbahan premium adem memperlihatkan motif Garutan Asri. Warna-warni pastel tanah Pasundan yang teduh dan anggun."
+  },
+  {
+    "id": "batik-020",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_13.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_13.jpg",
+    "name": "Tunik Sutra Modern Motif Lereng Semut",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1335000,
+    "price_formatted": "Rp 1.335.000",
+    "description": "Tunik Sutra Modern berbahan premium adem memperlihatkan motif Lereng Semut. Garis diagonal dinamis nan ramping memberikan siluet anggun."
+  },
+  {
+    "id": "batik-021",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_14.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_14.jpg",
+    "name": "Blouse Asimetris Dobby Motif Cuwiri Lung-Lungan",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1380000,
+    "price_formatted": "Rp 1.380.000",
+    "description": "Blouse Asimetris Dobby berbahan premium adem memperlihatkan motif Cuwiri Lung-Lungan. Sulur dedaunan anggun pemberi ketenangan jiwa."
+  },
+  {
+    "id": "batik-022",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_15.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_15.jpg",
+    "name": "Gaun Silk Shibotik Motif Tambal Kanoman",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1425000,
+    "price_formatted": "Rp 1.425.000",
+    "description": "Gaun Silk Shibotik berbahan premium adem memperlihatkan motif Tambal Kanoman. Kolase tambal perca batik penolak bala dan pembawa harmoni."
+  },
+  {
+    "id": "batik-023",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_16.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_16.jpg",
+    "name": "Outer Kencana Wungu Motif Sutra ATBM Barong",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 770000,
+    "price_formatted": "Rp 770.000",
+    "description": "Outer Kencana Wungu berbahan premium adem memperlihatkan motif Sutra ATBM Barong. Tenun tangan sutra asli dengan motif parang barong agung."
+  },
+  {
+    "id": "batik-024",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_17.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_17.jpg",
+    "name": "Kebayang Modern Kartini Motif Sekar Jagad",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 815000,
+    "price_formatted": "Rp 815.000",
+    "description": "Kebayang Modern Kartini berbahan premium adem memperlihatkan motif Sekar Jagad. Perpaduan ragam motif bunga nusantara yang melambangkan keindahan semesta."
+  },
+  {
+    "id": "batik-025",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_18.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_18.jpg",
+    "name": "Dress Pesta Eksklusif Motif Truntum Asih",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 860000,
+    "price_formatted": "Rp 860.000",
+    "description": "Dress Pesta Eksklusif berbahan premium adem memperlihatkan motif Truntum Asih. Motif bintang lambang cinta abadi dan ketulusan kasih."
+  },
+  {
+    "id": "batik-026",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_19.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_19.jpg",
+    "name": "Setelan Kulot & Atasan Motif Parang Kencana",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 905000,
+    "price_formatted": "Rp 905.000",
+    "description": "Setelan Kulot & Atasan berbahan premium adem memperlihatkan motif Parang Kencana. Motif klasik keraton dengan sentuhan prada emas keanggunan."
+  },
+  {
+    "id": "batik-027",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_20.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_20.jpg",
+    "name": "Kemeja Wanita Tailored Motif Shibotik Indigo",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 950000,
+    "price_formatted": "Rp 950.000",
+    "description": "Kemeja Wanita Tailored berbahan premium adem memperlihatkan motif Shibotik Indigo. Teknik shibori kontemporer berpadu canting batik malam dingin."
+  },
+  {
+    "id": "batik-028",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_21.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_21.jpg",
+    "name": "Kimono Outer Silk Motif Megamendung Sky",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 995000,
+    "price_formatted": "Rp 995.000",
+    "description": "Kimono Outer Silk berbahan premium adem memperlihatkan motif Megamendung Sky. Awan bertingkat lambang keteduhan, kesabaran, dan kemakmuran."
+  },
+  {
+    "id": "batik-029",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_22.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_22.jpg",
+    "name": "Maxi Dress Flowy Motif Kawung Galar",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1040000,
+    "price_formatted": "Rp 1.040.000",
+    "description": "Maxi Dress Flowy berbahan premium adem memperlihatkan motif Kawung Galar. Bentuk empat lonjong simetris lambang kesucian budi dan ketulusan."
+  },
+  {
+    "id": "batik-030",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_23.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_23.jpg",
+    "name": "Blazer Batik Kantor Motif Sidomukti Luhur",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1085000,
+    "price_formatted": "Rp 1.085.000",
+    "description": "Blazer Batik Kantor berbahan premium adem memperlihatkan motif Sidomukti Luhur. Doa pengharapan kemakmuran, derajat luhur, dan kebahagiaan sejati."
+  },
+  {
+    "id": "batik-031",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_24.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_24.jpg",
+    "name": "Tunik Kerah Sanghai Motif Gurdo Pusaka",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1130000,
+    "price_formatted": "Rp 1.130.000",
+    "description": "Tunik Kerah Sanghai berbahan premium adem memperlihatkan motif Gurdo Pusaka. Sayap garuda lambang wibawa kepemimpinan dan perlindungan."
+  },
+  {
+    "id": "batik-032",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_25.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_25.jpg",
+    "name": "Tunik Sutra Modern Motif Sogan Nitik",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1175000,
+    "price_formatted": "Rp 1.175.000",
+    "description": "Tunik Sutra Modern berbahan premium adem memperlihatkan motif Sogan Nitik. Titik-titik halus geometri tenun keraton khas Solo-Yogya."
+  },
+  {
+    "id": "batik-033",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_26.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_26.jpg",
+    "name": "Blouse Asimetris Dobby Motif Pekalongan Asri",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1220000,
+    "price_formatted": "Rp 1.220.000",
+    "description": "Blouse Asimetris Dobby berbahan premium adem memperlihatkan motif Pekalongan Asri. Bungaan pesisir penuh warna ceria nan memikat."
+  },
+  {
+    "id": "batik-034",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_27.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_27.jpg",
+    "name": "Gaun Silk Shibotik Motif Cirebonan Cendrawasih",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1265000,
+    "price_formatted": "Rp 1.265.000",
+    "description": "Gaun Silk Shibotik berbahan premium adem memperlihatkan motif Cirebonan Cendrawasih. Motif flora fauna burung khayangan yang memesona."
+  },
+  {
+    "id": "batik-035",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_28.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_28.jpg",
+    "name": "Outer Kencana Wungu Motif Garutan Asri",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1310000,
+    "price_formatted": "Rp 1.310.000",
+    "description": "Outer Kencana Wungu berbahan premium adem memperlihatkan motif Garutan Asri. Warna-warni pastel tanah Pasundan yang teduh dan anggun."
+  },
+  {
+    "id": "batik-036",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_29.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_29.jpg",
+    "name": "Kebayang Modern Kartini Motif Lereng Semut",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1355000,
+    "price_formatted": "Rp 1.355.000",
+    "description": "Kebayang Modern Kartini berbahan premium adem memperlihatkan motif Lereng Semut. Garis diagonal dinamis nan ramping memberikan siluet anggun."
+  },
+  {
+    "id": "batik-037",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_30.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_30.jpg",
+    "name": "Dress Pesta Eksklusif Motif Cuwiri Lung-Lungan",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1400000,
+    "price_formatted": "Rp 1.400.000",
+    "description": "Dress Pesta Eksklusif berbahan premium adem memperlihatkan motif Cuwiri Lung-Lungan. Sulur dedaunan anggun pemberi ketenangan jiwa."
+  },
+  {
+    "id": "batik-038",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_31.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_31.jpg",
+    "name": "Setelan Kulot & Atasan Motif Tambal Kanoman",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 1445000,
+    "price_formatted": "Rp 1.445.000",
+    "description": "Setelan Kulot & Atasan berbahan premium adem memperlihatkan motif Tambal Kanoman. Kolase tambal perca batik penolak bala dan pembawa harmoni."
+  },
+  {
+    "id": "batik-039",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_32.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_32.jpg",
+    "name": "Kemeja Wanita Tailored Motif Sutra ATBM Barong",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 790000,
+    "price_formatted": "Rp 790.000",
+    "description": "Kemeja Wanita Tailored berbahan premium adem memperlihatkan motif Sutra ATBM Barong. Tenun tangan sutra asli dengan motif parang barong agung."
+  },
+  {
+    "id": "batik-040",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_33.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_33.jpg",
+    "name": "Kimono Outer Silk Motif Sekar Jagad",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 835000,
+    "price_formatted": "Rp 835.000",
+    "description": "Kimono Outer Silk berbahan premium adem memperlihatkan motif Sekar Jagad. Perpaduan ragam motif bunga nusantara yang melambangkan keindahan semesta."
+  },
+  {
+    "id": "batik-041",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_34.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_34.jpg",
+    "name": "Maxi Dress Flowy Motif Truntum Asih",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 880000,
+    "price_formatted": "Rp 880.000",
+    "description": "Maxi Dress Flowy berbahan premium adem memperlihatkan motif Truntum Asih. Motif bintang lambang cinta abadi dan ketulusan kasih."
+  },
+  {
+    "id": "batik-042",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_35.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_35.jpg",
+    "name": "Blazer Batik Kantor Motif Parang Kencana",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 925000,
+    "price_formatted": "Rp 925.000",
+    "description": "Blazer Batik Kantor berbahan premium adem memperlihatkan motif Parang Kencana. Motif klasik keraton dengan sentuhan prada emas keanggunan."
+  },
+  {
+    "id": "batik-043",
+    "filename": "01_ORANG_PAKAI_BATIK_Model_TikTok_36.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Model_TikTok_36.jpg",
+    "name": "Tunik Kerah Sanghai Motif Shibotik Indigo",
+    "category": "Busana Wanita (Katalog Model)",
+    "price_num": 970000,
+    "price_formatted": "Rp 970.000",
+    "description": "Tunik Kerah Sanghai berbahan premium adem memperlihatkan motif Shibotik Indigo. Teknik shibori kontemporer berpadu canting batik malam dingin."
+  },
+  {
+    "id": "batik-044",
+    "filename": "01_ORANG_PAKAI_BATIK_Pasangan_Couple_Sarimbit.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Pasangan_Couple_Sarimbit.jpg",
+    "name": "Sarimbit Pasangan Royal Navy Sekar Jagad",
+    "category": "Koleksi Unggulan Model",
+    "price_num": 1650000,
+    "price_formatted": "Rp 1.650.000",
+    "description": "Set busana serasi pria dan wanita perpaduan warna royal navy dan emas."
+  },
+  {
+    "id": "batik-045",
+    "filename": "01_ORANG_PAKAI_BATIK_Pelanggan_Puas_Fitting.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Pelanggan_Puas_Fitting.jpg",
+    "name": "Fitting Pesanan Kustom Jahit Pelanggan",
+    "category": "Koleksi Unggulan Model",
+    "price_num": 550000,
+    "price_formatted": "Custom Order",
+    "description": "Dokumentasi fitting dan penyesuaian ukuran presisi agar nyaman dikenakan."
+  },
+  {
+    "id": "batik-046",
+    "filename": "01_ORANG_PAKAI_BATIK_Pria_Kemeja_Presisi.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Pria_Kemeja_Presisi.jpg",
+    "name": "Kemeja Batik Pria Slim Fit Prabu Anom Sogan",
+    "category": "Koleksi Unggulan Model",
+    "price_num": 850000,
+    "price_formatted": "Rp 850.000",
+    "description": "Kemeja pria potongan tailored presisi dengan motif parang sogan klasik keraton."
+  },
+  {
+    "id": "batik-047",
+    "filename": "01_ORANG_PAKAI_BATIK_Promo_Batik_Tulis_Jahit.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Promo_Batik_Tulis_Jahit.jpg",
+    "name": "Busana Batik Modern: Promo Batik Tulis Jahit",
+    "category": "Koleksi Unggulan Model",
+    "price_num": 890000,
+    "price_formatted": "Rp 890.000",
+    "description": "Koleksi busana batik siap pakai Rumah Batik Cipaku motif Promo Batik Tulis Jahit."
+  },
+  {
+    "id": "batik-048",
+    "filename": "01_ORANG_PAKAI_BATIK_Wanita_Siluet_Anggun.jpg",
+    "image_url": "/batik_assets/01_ORANG_PAKAI_BATIK_Wanita_Siluet_Anggun.jpg",
+    "name": "Busana Batik Modern: Wanita Siluet Anggun",
+    "category": "Koleksi Unggulan Model",
+    "price_num": 890000,
+    "price_formatted": "Rp 890.000",
+    "description": "Koleksi busana batik siap pakai Rumah Batik Cipaku motif Wanita Siluet Anggun."
+  },
+  {
+    "id": "batik-049",
+    "filename": "02_FOTO_BATIK_Busana_Wanita_Display.jpg",
+    "image_url": "/batik_assets/02_FOTO_BATIK_Busana_Wanita_Display.jpg",
+    "name": "Koleksi Kain Batik Nusantara: Busana Wanita Display",
+    "category": "Kain & Display Showroom",
+    "price_num": 1250000,
+    "price_formatted": "Mulai Rp 450.000 / m",
+    "description": "Ribuan gulungan kain batik tulis, cap, dan shibotik langsung dari sentra pengrajin terbaik."
+  },
+  {
+    "id": "batik-050",
+    "filename": "02_FOTO_BATIK_Gulungan_Kain_Lengkap.jpg",
+    "image_url": "/batik_assets/02_FOTO_BATIK_Gulungan_Kain_Lengkap.jpg",
+    "name": "Koleksi Kain Batik Nusantara: Gulungan Kain Lengkap",
+    "category": "Kain & Display Showroom",
+    "price_num": 1250000,
+    "price_formatted": "Mulai Rp 450.000 / m",
+    "description": "Ribuan gulungan kain batik tulis, cap, dan shibotik langsung dari sentra pengrajin terbaik."
+  },
+  {
+    "id": "batik-051",
+    "filename": "02_FOTO_BATIK_Kain_Showroom_Display.jpg",
+    "image_url": "/batik_assets/02_FOTO_BATIK_Kain_Showroom_Display.jpg",
+    "name": "Koleksi Kain Batik Nusantara: Kain Showroom Display",
+    "category": "Kain & Display Showroom",
+    "price_num": 1250000,
+    "price_formatted": "Mulai Rp 450.000 / m",
+    "description": "Ribuan gulungan kain batik tulis, cap, dan shibotik langsung dari sentra pengrajin terbaik."
+  },
+  {
+    "id": "batik-052",
+    "filename": "02_FOTO_BATIK_Kemeja_Pria_Display.jpg",
+    "image_url": "/batik_assets/02_FOTO_BATIK_Kemeja_Pria_Display.jpg",
+    "name": "Koleksi Kain Batik Nusantara: Kemeja Pria Display",
+    "category": "Kain & Display Showroom",
+    "price_num": 1250000,
+    "price_formatted": "Mulai Rp 450.000 / m",
+    "description": "Ribuan gulungan kain batik tulis, cap, dan shibotik langsung dari sentra pengrajin terbaik."
+  },
+  {
+    "id": "batik-053",
+    "filename": "03_SOROTAN_Admin_Pemesanan.jpg",
+    "image_url": "/batik_assets/03_SOROTAN_Admin_Pemesanan.jpg",
+    "name": "Kategori: Admin Pemesanan",
+    "category": "Cover Kategori & Layanan",
+    "price_num": 0,
+    "price_formatted": "Koleksi Pilihan",
+    "description": "Arsip sorotan Instagram resmi Rumah Batik Cipaku untuk kategori Admin Pemesanan."
+  },
+  {
+    "id": "batik-054",
+    "filename": "03_SOROTAN_Cara_Pemesanan.jpg",
+    "image_url": "/batik_assets/03_SOROTAN_Cara_Pemesanan.jpg",
+    "name": "Kategori: Cara Pemesanan",
+    "category": "Cover Kategori & Layanan",
+    "price_num": 0,
+    "price_formatted": "Koleksi Pilihan",
+    "description": "Arsip sorotan Instagram resmi Rumah Batik Cipaku untuk kategori Cara Pemesanan."
+  },
+  {
+    "id": "batik-055",
+    "filename": "03_SOROTAN_Custom_Jahit_2024.jpg",
+    "image_url": "/batik_assets/03_SOROTAN_Custom_Jahit_2024.jpg",
+    "name": "Kategori: Custom Jahit 2024",
+    "category": "Cover Kategori & Layanan",
+    "price_num": 0,
+    "price_formatted": "Koleksi Pilihan",
+    "description": "Arsip sorotan Instagram resmi Rumah Batik Cipaku untuk kategori Custom Jahit 2024."
+  },
+  {
+    "id": "batik-056",
+    "filename": "03_SOROTAN_Family_Edition_Sarimbit.jpg",
+    "image_url": "/batik_assets/03_SOROTAN_Family_Edition_Sarimbit.jpg",
+    "name": "Kategori: Family Edition Sarimbit",
+    "category": "Cover Kategori & Layanan",
+    "price_num": 0,
+    "price_formatted": "Koleksi Pilihan",
+    "description": "Arsip sorotan Instagram resmi Rumah Batik Cipaku untuk kategori Family Edition Sarimbit."
+  },
+  {
+    "id": "batik-057",
+    "filename": "03_SOROTAN_Influencer_dan_Tokoh.jpg",
+    "image_url": "/batik_assets/03_SOROTAN_Influencer_dan_Tokoh.jpg",
+    "name": "Kategori: Influencer dan Tokoh",
+    "category": "Cover Kategori & Layanan",
+    "price_num": 0,
+    "price_formatted": "Koleksi Pilihan",
+    "description": "Arsip sorotan Instagram resmi Rumah Batik Cipaku untuk kategori Influencer dan Tokoh."
+  },
+  {
+    "id": "batik-058",
+    "filename": "03_SOROTAN_Limandara_Batik.jpg",
+    "image_url": "/batik_assets/03_SOROTAN_Limandara_Batik.jpg",
+    "name": "Kategori: Limandara Batik",
+    "category": "Cover Kategori & Layanan",
+    "price_num": 0,
+    "price_formatted": "Koleksi Pilihan",
+    "description": "Arsip sorotan Instagram resmi Rumah Batik Cipaku untuk kategori Limandara Batik."
+  },
+  {
+    "id": "batik-059",
+    "filename": "03_SOROTAN_New_Arrivals_Koleksi.jpg",
+    "image_url": "/batik_assets/03_SOROTAN_New_Arrivals_Koleksi.jpg",
+    "name": "Kategori: New Arrivals Koleksi",
+    "category": "Cover Kategori & Layanan",
+    "price_num": 0,
+    "price_formatted": "Koleksi Pilihan",
+    "description": "Arsip sorotan Instagram resmi Rumah Batik Cipaku untuk kategori New Arrivals Koleksi."
+  },
+  {
+    "id": "batik-060",
+    "filename": "03_SOROTAN_On_Sale_Diskon.jpg",
+    "image_url": "/batik_assets/03_SOROTAN_On_Sale_Diskon.jpg",
+    "name": "Kategori: On Sale Diskon",
+    "category": "Cover Kategori & Layanan",
+    "price_num": 0,
+    "price_formatted": "Koleksi Pilihan",
+    "description": "Arsip sorotan Instagram resmi Rumah Batik Cipaku untuk kategori On Sale Diskon."
+  },
+  {
+    "id": "batik-061",
+    "filename": "03_SOROTAN_Proses_Jahit_Tailor.jpg",
+    "image_url": "/batik_assets/03_SOROTAN_Proses_Jahit_Tailor.jpg",
+    "name": "Kategori: Proses Jahit Tailor",
+    "category": "Cover Kategori & Layanan",
+    "price_num": 0,
+    "price_formatted": "Koleksi Pilihan",
+    "description": "Arsip sorotan Instagram resmi Rumah Batik Cipaku untuk kategori Proses Jahit Tailor."
+  },
+  {
+    "id": "batik-062",
+    "filename": "03_SOROTAN_Testimoni_Pelanggan.jpg",
+    "image_url": "/batik_assets/03_SOROTAN_Testimoni_Pelanggan.jpg",
+    "name": "Kategori: Testimoni Pelanggan",
+    "category": "Cover Kategori & Layanan",
+    "price_num": 0,
+    "price_formatted": "Koleksi Pilihan",
+    "description": "Arsip sorotan Instagram resmi Rumah Batik Cipaku untuk kategori Testimoni Pelanggan."
+  },
+  {
+    "id": "batik-063",
+    "filename": "04_TOKO_Depan_Pintu_Masuk.jpg",
+    "image_url": "/batik_assets/04_TOKO_Depan_Pintu_Masuk.jpg",
+    "name": "Suasana Butik: Depan Pintu Masuk",
+    "category": "Suasana Galeri 1.200 m²",
+    "price_num": 0,
+    "price_formatted": "Buka Setiap Hari",
+    "description": "Galeri belanja batik bernuansa asri dan tenang di kawasan sejuk Cipaku Indah Bandung Utara."
+  },
+  {
+    "id": "batik-064",
+    "filename": "04_TOKO_Interior_Showroom_Utama.jpg",
+    "image_url": "/batik_assets/04_TOKO_Interior_Showroom_Utama.jpg",
+    "name": "Suasana Butik: Interior Showroom Utama",
+    "category": "Suasana Galeri 1.200 m²",
+    "price_num": 0,
+    "price_formatted": "Buka Setiap Hari",
+    "description": "Galeri belanja batik bernuansa asri dan tenang di kawasan sejuk Cipaku Indah Bandung Utara."
+  },
+  {
+    "id": "batik-065",
+    "filename": "04_TOKO_Pelayanan_Staf_dan_Owner.jpg",
+    "image_url": "/batik_assets/04_TOKO_Pelayanan_Staf_dan_Owner.jpg",
+    "name": "Suasana Butik: Pelayanan Staf dan Owner",
+    "category": "Suasana Galeri 1.200 m²",
+    "price_num": 0,
+    "price_formatted": "Buka Setiap Hari",
+    "description": "Galeri belanja batik bernuansa asri dan tenang di kawasan sejuk Cipaku Indah Bandung Utara."
+  },
+  {
+    "id": "batik-066",
+    "filename": "05_WORKSHOP_Penjahit_Inhouse_Galeri.jpg",
+    "image_url": "/batik_assets/05_WORKSHOP_Penjahit_Inhouse_Galeri.jpg",
+    "name": "Workshop Galeri: Penjahit Inhouse Galeri",
+    "category": "Workshop & Pengrajin In-House",
+    "price_num": 0,
+    "price_formatted": "Layanan Khusus",
+    "description": "Fasilitas pengerjaan canting batik tulis dan tim penjahit profesional langsung di galeri."
+  },
+  {
+    "id": "batik-067",
+    "filename": "05_WORKSHOP_Proses_Canting_Tradisional.jpg",
+    "image_url": "/batik_assets/05_WORKSHOP_Proses_Canting_Tradisional.jpg",
+    "name": "Workshop Galeri: Proses Canting Tradisional",
+    "category": "Workshop & Pengrajin In-House",
+    "price_num": 0,
+    "price_formatted": "Layanan Khusus",
+    "description": "Fasilitas pengerjaan canting batik tulis dan tim penjahit profesional langsung di galeri."
+  },
+  {
+    "id": "batik-068",
+    "filename": "06_MEDIA_Fashion_Show_Rumah_Batik_Cipaku.jpg",
+    "image_url": "/batik_assets/06_MEDIA_Fashion_Show_Rumah_Batik_Cipaku.jpg",
+    "name": "Liputan TV: Fashion Show Rumah Batik Cipaku",
+    "category": "Liputan Media Nasional",
+    "price_num": 0,
+    "price_formatted": "Dokumentasi Resmi",
+    "description": "Dokumentasi liputan program televisi nasional (NET TV, Fashion Show, Vlog) mengenai Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-069",
+    "filename": "06_MEDIA_Liputan_NET_5_Sejuta_Model.jpg",
+    "image_url": "/batik_assets/06_MEDIA_Liputan_NET_5_Sejuta_Model.jpg",
+    "name": "Liputan TV: Liputan NET 5 Sejuta Model",
+    "category": "Liputan Media Nasional",
+    "price_num": 0,
+    "price_formatted": "Dokumentasi Resmi",
+    "description": "Dokumentasi liputan program televisi nasional (NET TV, Fashion Show, Vlog) mengenai Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-070",
+    "filename": "06_MEDIA_Liputan_NET_TV_Jabar.jpg",
+    "image_url": "/batik_assets/06_MEDIA_Liputan_NET_TV_Jabar.jpg",
+    "name": "Liputan TV: Liputan NET TV Jabar",
+    "category": "Liputan Media Nasional",
+    "price_num": 0,
+    "price_formatted": "Dokumentasi Resmi",
+    "description": "Dokumentasi liputan program televisi nasional (NET TV, Fashion Show, Vlog) mengenai Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-071",
+    "filename": "06_MEDIA_Vlog_Kunjungan_Galeri.jpg",
+    "image_url": "/batik_assets/06_MEDIA_Vlog_Kunjungan_Galeri.jpg",
+    "name": "Liputan TV: Vlog Kunjungan Galeri",
+    "category": "Liputan Media Nasional",
+    "price_num": 0,
+    "price_formatted": "Dokumentasi Resmi",
+    "description": "Dokumentasi liputan program televisi nasional (NET TV, Fashion Show, Vlog) mengenai Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-072",
+    "filename": "07_CABANG_Sederhana_Produk_01.jpg",
+    "image_url": "/batik_assets/07_CABANG_Sederhana_Produk_01.jpg",
+    "name": "Koleksi Batik Cabang Sederhana Seri #01",
+    "category": "Cabang Jl. Sederhana",
+    "price_num": 485000,
+    "price_formatted": "Rp 485.000",
+    "description": "Display produk busana dan kain batik di gerai cabang Jalan Sederhana Bandung #01."
+  },
+  {
+    "id": "batik-073",
+    "filename": "07_CABANG_Sederhana_Produk_02.jpg",
+    "image_url": "/batik_assets/07_CABANG_Sederhana_Produk_02.jpg",
+    "name": "Koleksi Batik Cabang Sederhana Seri #02",
+    "category": "Cabang Jl. Sederhana",
+    "price_num": 520000,
+    "price_formatted": "Rp 520.000",
+    "description": "Display produk busana dan kain batik di gerai cabang Jalan Sederhana Bandung #02."
+  },
+  {
+    "id": "batik-074",
+    "filename": "07_CABANG_Sederhana_Produk_03.jpg",
+    "image_url": "/batik_assets/07_CABANG_Sederhana_Produk_03.jpg",
+    "name": "Koleksi Batik Cabang Sederhana Seri #03",
+    "category": "Cabang Jl. Sederhana",
+    "price_num": 555000,
+    "price_formatted": "Rp 555.000",
+    "description": "Display produk busana dan kain batik di gerai cabang Jalan Sederhana Bandung #03."
+  },
+  {
+    "id": "batik-075",
+    "filename": "07_CABANG_Sederhana_Produk_04.jpg",
+    "image_url": "/batik_assets/07_CABANG_Sederhana_Produk_04.jpg",
+    "name": "Koleksi Batik Cabang Sederhana Seri #04",
+    "category": "Cabang Jl. Sederhana",
+    "price_num": 590000,
+    "price_formatted": "Rp 590.000",
+    "description": "Display produk busana dan kain batik di gerai cabang Jalan Sederhana Bandung #04."
+  },
+  {
+    "id": "batik-076",
+    "filename": "07_CABANG_Sederhana_Produk_05.jpg",
+    "image_url": "/batik_assets/07_CABANG_Sederhana_Produk_05.jpg",
+    "name": "Koleksi Batik Cabang Sederhana Seri #05",
+    "category": "Cabang Jl. Sederhana",
+    "price_num": 625000,
+    "price_formatted": "Rp 625.000",
+    "description": "Display produk busana dan kain batik di gerai cabang Jalan Sederhana Bandung #05."
+  },
+  {
+    "id": "batik-077",
+    "filename": "07_CABANG_Sederhana_Produk_06.jpg",
+    "image_url": "/batik_assets/07_CABANG_Sederhana_Produk_06.jpg",
+    "name": "Koleksi Batik Cabang Sederhana Seri #06",
+    "category": "Cabang Jl. Sederhana",
+    "price_num": 660000,
+    "price_formatted": "Rp 660.000",
+    "description": "Display produk busana dan kain batik di gerai cabang Jalan Sederhana Bandung #06."
+  },
+  {
+    "id": "batik-078",
+    "filename": "07_CABANG_Sederhana_Produk_07.jpg",
+    "image_url": "/batik_assets/07_CABANG_Sederhana_Produk_07.jpg",
+    "name": "Koleksi Batik Cabang Sederhana Seri #07",
+    "category": "Cabang Jl. Sederhana",
+    "price_num": 695000,
+    "price_formatted": "Rp 695.000",
+    "description": "Display produk busana dan kain batik di gerai cabang Jalan Sederhana Bandung #07."
+  },
+  {
+    "id": "batik-079",
+    "filename": "07_CABANG_Sederhana_Produk_08.jpg",
+    "image_url": "/batik_assets/07_CABANG_Sederhana_Produk_08.jpg",
+    "name": "Koleksi Batik Cabang Sederhana Seri #08",
+    "category": "Cabang Jl. Sederhana",
+    "price_num": 730000,
+    "price_formatted": "Rp 730.000",
+    "description": "Display produk busana dan kain batik di gerai cabang Jalan Sederhana Bandung #08."
+  },
+  {
+    "id": "batik-080",
+    "filename": "07_CABANG_Sederhana_Produk_09.jpg",
+    "image_url": "/batik_assets/07_CABANG_Sederhana_Produk_09.jpg",
+    "name": "Koleksi Batik Cabang Sederhana Seri #09",
+    "category": "Cabang Jl. Sederhana",
+    "price_num": 765000,
+    "price_formatted": "Rp 765.000",
+    "description": "Display produk busana dan kain batik di gerai cabang Jalan Sederhana Bandung #09."
+  },
+  {
+    "id": "batik-081",
+    "filename": "07_CABANG_Sederhana_Produk_10.jpg",
+    "image_url": "/batik_assets/07_CABANG_Sederhana_Produk_10.jpg",
+    "name": "Koleksi Batik Cabang Sederhana Seri #10",
+    "category": "Cabang Jl. Sederhana",
+    "price_num": 800000,
+    "price_formatted": "Rp 800.000",
+    "description": "Display produk busana dan kain batik di gerai cabang Jalan Sederhana Bandung #10."
+  },
+  {
+    "id": "batik-082",
+    "filename": "07_CABANG_Sederhana_Produk_11.jpg",
+    "image_url": "/batik_assets/07_CABANG_Sederhana_Produk_11.jpg",
+    "name": "Koleksi Batik Cabang Sederhana Seri #11",
+    "category": "Cabang Jl. Sederhana",
+    "price_num": 835000,
+    "price_formatted": "Rp 835.000",
+    "description": "Display produk busana dan kain batik di gerai cabang Jalan Sederhana Bandung #11."
+  },
+  {
+    "id": "batik-083",
+    "filename": "07_CABANG_Sederhana_Produk_12.jpg",
+    "image_url": "/batik_assets/07_CABANG_Sederhana_Produk_12.jpg",
+    "name": "Koleksi Batik Cabang Sederhana Seri #12",
+    "category": "Cabang Jl. Sederhana",
+    "price_num": 870000,
+    "price_formatted": "Rp 870.000",
+    "description": "Display produk busana dan kain batik di gerai cabang Jalan Sederhana Bandung #12."
+  },
+  {
+    "id": "batik-084",
+    "filename": "08_STORY_Admin_Slide_01.jpg",
+    "image_url": "/batik_assets/08_STORY_Admin_Slide_01.jpg",
+    "name": "Layanan Pemesanan & Admin WhatsApp Resmi",
+    "category": "Kontak & Pemesanan",
+    "price_num": 0,
+    "price_formatted": "Fast Response",
+    "description": "Informasi nomor WhatsApp resmi admin Rumah Batik Cipaku (0811-2333-699 & 0812-2253-9777)."
+  },
+  {
+    "id": "batik-085",
+    "filename": "08_STORY_Couple_Edition_Slide_01.jpg",
+    "image_url": "/batik_assets/08_STORY_Couple_Edition_Slide_01.jpg",
+    "name": "Batik Couple Pasangan Elegan Seri #01",
+    "category": "Couple Edition",
+    "price_num": 1290000,
+    "price_formatted": "Rp 1.290.000",
+    "description": "Setelan busana pasangan serasi perpaduan kemeja pria dan dress/tunik wanita bernuansa romantis dan berkelas."
+  },
+  {
+    "id": "batik-086",
+    "filename": "08_STORY_Couple_Edition_Slide_02.jpg",
+    "image_url": "/batik_assets/08_STORY_Couple_Edition_Slide_02.jpg",
+    "name": "Batik Couple Pasangan Elegan Seri #02",
+    "category": "Couple Edition",
+    "price_num": 1330000,
+    "price_formatted": "Rp 1.330.000",
+    "description": "Setelan busana pasangan serasi perpaduan kemeja pria dan dress/tunik wanita bernuansa romantis dan berkelas."
+  },
+  {
+    "id": "batik-087",
+    "filename": "08_STORY_Couple_Edition_Slide_03.jpg",
+    "image_url": "/batik_assets/08_STORY_Couple_Edition_Slide_03.jpg",
+    "name": "Batik Couple Pasangan Elegan Seri #03",
+    "category": "Couple Edition",
+    "price_num": 1370000,
+    "price_formatted": "Rp 1.370.000",
+    "description": "Setelan busana pasangan serasi perpaduan kemeja pria dan dress/tunik wanita bernuansa romantis dan berkelas."
+  },
+  {
+    "id": "batik-088",
+    "filename": "08_STORY_Couple_Edition_Slide_04.jpg",
+    "image_url": "/batik_assets/08_STORY_Couple_Edition_Slide_04.jpg",
+    "name": "Batik Couple Pasangan Elegan Seri #04",
+    "category": "Couple Edition",
+    "price_num": 1410000,
+    "price_formatted": "Rp 1.410.000",
+    "description": "Setelan busana pasangan serasi perpaduan kemeja pria dan dress/tunik wanita bernuansa romantis dan berkelas."
+  },
+  {
+    "id": "batik-089",
+    "filename": "08_STORY_Couple_Edition_Slide_05.jpg",
+    "image_url": "/batik_assets/08_STORY_Couple_Edition_Slide_05.jpg",
+    "name": "Batik Couple Pasangan Elegan Seri #05",
+    "category": "Couple Edition",
+    "price_num": 1450000,
+    "price_formatted": "Rp 1.450.000",
+    "description": "Setelan busana pasangan serasi perpaduan kemeja pria dan dress/tunik wanita bernuansa romantis dan berkelas."
+  },
+  {
+    "id": "batik-090",
+    "filename": "08_STORY_Couple_Edition_Slide_06.jpg",
+    "image_url": "/batik_assets/08_STORY_Couple_Edition_Slide_06.jpg",
+    "name": "Batik Couple Pasangan Elegan Seri #06",
+    "category": "Couple Edition",
+    "price_num": 1490000,
+    "price_formatted": "Rp 1.490.000",
+    "description": "Setelan busana pasangan serasi perpaduan kemeja pria dan dress/tunik wanita bernuansa romantis dan berkelas."
+  },
+  {
+    "id": "batik-091",
+    "filename": "08_STORY_Couple_Edition_Slide_07.jpg",
+    "image_url": "/batik_assets/08_STORY_Couple_Edition_Slide_07.jpg",
+    "name": "Batik Couple Pasangan Elegan Seri #07",
+    "category": "Couple Edition",
+    "price_num": 1530000,
+    "price_formatted": "Rp 1.530.000",
+    "description": "Setelan busana pasangan serasi perpaduan kemeja pria dan dress/tunik wanita bernuansa romantis dan berkelas."
+  },
+  {
+    "id": "batik-092",
+    "filename": "08_STORY_Couple_Edition_Slide_08.jpg",
+    "image_url": "/batik_assets/08_STORY_Couple_Edition_Slide_08.jpg",
+    "name": "Batik Couple Pasangan Elegan Seri #08",
+    "category": "Couple Edition",
+    "price_num": 1570000,
+    "price_formatted": "Rp 1.570.000",
+    "description": "Setelan busana pasangan serasi perpaduan kemeja pria dan dress/tunik wanita bernuansa romantis dan berkelas."
+  },
+  {
+    "id": "batik-093",
+    "filename": "08_STORY_Couple_Edition_Slide_09.jpg",
+    "image_url": "/batik_assets/08_STORY_Couple_Edition_Slide_09.jpg",
+    "name": "Batik Couple Pasangan Elegan Seri #09",
+    "category": "Couple Edition",
+    "price_num": 1610000,
+    "price_formatted": "Rp 1.610.000",
+    "description": "Setelan busana pasangan serasi perpaduan kemeja pria dan dress/tunik wanita bernuansa romantis dan berkelas."
+  },
+  {
+    "id": "batik-094",
+    "filename": "08_STORY_Custom_2024_Slide_01.jpg",
+    "image_url": "/batik_assets/08_STORY_Custom_2024_Slide_01.jpg",
+    "name": "Portofolio Custom Jahit Pelanggan #01",
+    "category": "Custom Jahit On-Site",
+    "price_num": 0,
+    "price_formatted": "Jasa Jahit Rp 450k - 850k",
+    "description": "Dokumentasi busana pesanan khusus pelanggan hasil pengukuran badan dan jahit in-house Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-095",
+    "filename": "08_STORY_Custom_2024_Slide_02.jpg",
+    "image_url": "/batik_assets/08_STORY_Custom_2024_Slide_02.jpg",
+    "name": "Portofolio Custom Jahit Pelanggan #02",
+    "category": "Custom Jahit On-Site",
+    "price_num": 0,
+    "price_formatted": "Jasa Jahit Rp 450k - 850k",
+    "description": "Dokumentasi busana pesanan khusus pelanggan hasil pengukuran badan dan jahit in-house Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-096",
+    "filename": "08_STORY_Custom_2024_Slide_03.jpg",
+    "image_url": "/batik_assets/08_STORY_Custom_2024_Slide_03.jpg",
+    "name": "Portofolio Custom Jahit Pelanggan #03",
+    "category": "Custom Jahit On-Site",
+    "price_num": 0,
+    "price_formatted": "Jasa Jahit Rp 450k - 850k",
+    "description": "Dokumentasi busana pesanan khusus pelanggan hasil pengukuran badan dan jahit in-house Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-097",
+    "filename": "08_STORY_Custom_2024_Slide_04.jpg",
+    "image_url": "/batik_assets/08_STORY_Custom_2024_Slide_04.jpg",
+    "name": "Portofolio Custom Jahit Pelanggan #04",
+    "category": "Custom Jahit On-Site",
+    "price_num": 0,
+    "price_formatted": "Jasa Jahit Rp 450k - 850k",
+    "description": "Dokumentasi busana pesanan khusus pelanggan hasil pengukuran badan dan jahit in-house Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-098",
+    "filename": "08_STORY_Custom_2024_Slide_05.jpg",
+    "image_url": "/batik_assets/08_STORY_Custom_2024_Slide_05.jpg",
+    "name": "Portofolio Custom Jahit Pelanggan #05",
+    "category": "Custom Jahit On-Site",
+    "price_num": 0,
+    "price_formatted": "Jasa Jahit Rp 450k - 850k",
+    "description": "Dokumentasi busana pesanan khusus pelanggan hasil pengukuran badan dan jahit in-house Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-099",
+    "filename": "08_STORY_Custom_2024_Slide_06.jpg",
+    "image_url": "/batik_assets/08_STORY_Custom_2024_Slide_06.jpg",
+    "name": "Portofolio Custom Jahit Pelanggan #06",
+    "category": "Custom Jahit On-Site",
+    "price_num": 0,
+    "price_formatted": "Jasa Jahit Rp 450k - 850k",
+    "description": "Dokumentasi busana pesanan khusus pelanggan hasil pengukuran badan dan jahit in-house Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-100",
+    "filename": "08_STORY_Custom_2024_Slide_07.jpg",
+    "image_url": "/batik_assets/08_STORY_Custom_2024_Slide_07.jpg",
+    "name": "Portofolio Custom Jahit Pelanggan #07",
+    "category": "Custom Jahit On-Site",
+    "price_num": 0,
+    "price_formatted": "Jasa Jahit Rp 450k - 850k",
+    "description": "Dokumentasi busana pesanan khusus pelanggan hasil pengukuran badan dan jahit in-house Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-101",
+    "filename": "08_STORY_Custom_2024_Slide_08.jpg",
+    "image_url": "/batik_assets/08_STORY_Custom_2024_Slide_08.jpg",
+    "name": "Portofolio Custom Jahit Pelanggan #08",
+    "category": "Custom Jahit On-Site",
+    "price_num": 0,
+    "price_formatted": "Jasa Jahit Rp 450k - 850k",
+    "description": "Dokumentasi busana pesanan khusus pelanggan hasil pengukuran badan dan jahit in-house Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-102",
+    "filename": "08_STORY_Custom_2024_Slide_09.jpg",
+    "image_url": "/batik_assets/08_STORY_Custom_2024_Slide_09.jpg",
+    "name": "Portofolio Custom Jahit Pelanggan #09",
+    "category": "Custom Jahit On-Site",
+    "price_num": 0,
+    "price_formatted": "Jasa Jahit Rp 450k - 850k",
+    "description": "Dokumentasi busana pesanan khusus pelanggan hasil pengukuran badan dan jahit in-house Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-103",
+    "filename": "08_STORY_Custom_2024_Slide_10.jpg",
+    "image_url": "/batik_assets/08_STORY_Custom_2024_Slide_10.jpg",
+    "name": "Portofolio Custom Jahit Pelanggan #10",
+    "category": "Custom Jahit On-Site",
+    "price_num": 0,
+    "price_formatted": "Jasa Jahit Rp 450k - 850k",
+    "description": "Dokumentasi busana pesanan khusus pelanggan hasil pengukuran badan dan jahit in-house Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-104",
+    "filename": "08_STORY_Custom_Jahit_Slide_01.jpg",
+    "image_url": "/batik_assets/08_STORY_Custom_Jahit_Slide_01.jpg",
+    "name": "Portofolio Custom Jahit Pelanggan #01",
+    "category": "Custom Jahit On-Site",
+    "price_num": 0,
+    "price_formatted": "Jasa Jahit Rp 450k - 850k",
+    "description": "Dokumentasi busana pesanan khusus pelanggan hasil pengukuran badan dan jahit in-house Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-105",
+    "filename": "08_STORY_Custom_Jahit_Slide_02.jpg",
+    "image_url": "/batik_assets/08_STORY_Custom_Jahit_Slide_02.jpg",
+    "name": "Portofolio Custom Jahit Pelanggan #02",
+    "category": "Custom Jahit On-Site",
+    "price_num": 0,
+    "price_formatted": "Jasa Jahit Rp 450k - 850k",
+    "description": "Dokumentasi busana pesanan khusus pelanggan hasil pengukuran badan dan jahit in-house Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-106",
+    "filename": "08_STORY_Custom_Jahit_Slide_03.jpg",
+    "image_url": "/batik_assets/08_STORY_Custom_Jahit_Slide_03.jpg",
+    "name": "Portofolio Custom Jahit Pelanggan #03",
+    "category": "Custom Jahit On-Site",
+    "price_num": 0,
+    "price_formatted": "Jasa Jahit Rp 450k - 850k",
+    "description": "Dokumentasi busana pesanan khusus pelanggan hasil pengukuran badan dan jahit in-house Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-107",
+    "filename": "08_STORY_Custom_Jahit_Slide_04.jpg",
+    "image_url": "/batik_assets/08_STORY_Custom_Jahit_Slide_04.jpg",
+    "name": "Portofolio Custom Jahit Pelanggan #04",
+    "category": "Custom Jahit On-Site",
+    "price_num": 0,
+    "price_formatted": "Jasa Jahit Rp 450k - 850k",
+    "description": "Dokumentasi busana pesanan khusus pelanggan hasil pengukuran badan dan jahit in-house Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-108",
+    "filename": "08_STORY_Family_Edition_Slide_01.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_01.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #01",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 1500000,
+    "price_formatted": "Rp 1.500.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-109",
+    "filename": "08_STORY_Family_Edition_Slide_02.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_02.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #02",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 1550000,
+    "price_formatted": "Rp 1.550.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-110",
+    "filename": "08_STORY_Family_Edition_Slide_03.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_03.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #03",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 1600000,
+    "price_formatted": "Rp 1.600.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-111",
+    "filename": "08_STORY_Family_Edition_Slide_04.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_04.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #04",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 1650000,
+    "price_formatted": "Rp 1.650.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-112",
+    "filename": "08_STORY_Family_Edition_Slide_05.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_05.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #05",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 1700000,
+    "price_formatted": "Rp 1.700.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-113",
+    "filename": "08_STORY_Family_Edition_Slide_06.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_06.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #06",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 1750000,
+    "price_formatted": "Rp 1.750.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-114",
+    "filename": "08_STORY_Family_Edition_Slide_07.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_07.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #07",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 1800000,
+    "price_formatted": "Rp 1.800.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-115",
+    "filename": "08_STORY_Family_Edition_Slide_08.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_08.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #08",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 1850000,
+    "price_formatted": "Rp 1.850.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-116",
+    "filename": "08_STORY_Family_Edition_Slide_09.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_09.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #09",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 1900000,
+    "price_formatted": "Rp 1.900.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-117",
+    "filename": "08_STORY_Family_Edition_Slide_10.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_10.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #10",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 1950000,
+    "price_formatted": "Rp 1.950.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-118",
+    "filename": "08_STORY_Family_Edition_Slide_11.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_11.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #11",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 2000000,
+    "price_formatted": "Rp 2.000.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-119",
+    "filename": "08_STORY_Family_Edition_Slide_12.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_12.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #12",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 2050000,
+    "price_formatted": "Rp 2.050.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-120",
+    "filename": "08_STORY_Family_Edition_Slide_13.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_13.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #13",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 2100000,
+    "price_formatted": "Rp 2.100.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-121",
+    "filename": "08_STORY_Family_Edition_Slide_14.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_14.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #14",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 2150000,
+    "price_formatted": "Rp 2.150.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-122",
+    "filename": "08_STORY_Family_Edition_Slide_15.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_15.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #15",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 2200000,
+    "price_formatted": "Rp 2.200.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-123",
+    "filename": "08_STORY_Family_Edition_Slide_16.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_16.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #16",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 2250000,
+    "price_formatted": "Rp 2.250.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-124",
+    "filename": "08_STORY_Family_Edition_Slide_17.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_17.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #17",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 2300000,
+    "price_formatted": "Rp 2.300.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-125",
+    "filename": "08_STORY_Family_Edition_Slide_18.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_18.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #18",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 2350000,
+    "price_formatted": "Rp 2.350.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-126",
+    "filename": "08_STORY_Family_Edition_Slide_19.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_19.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #19",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 2400000,
+    "price_formatted": "Rp 2.400.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-127",
+    "filename": "08_STORY_Family_Edition_Slide_20.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_20.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #20",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 2450000,
+    "price_formatted": "Rp 2.450.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-128",
+    "filename": "08_STORY_Family_Edition_Slide_21.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_21.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #21",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 2500000,
+    "price_formatted": "Rp 2.500.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-129",
+    "filename": "08_STORY_Family_Edition_Slide_22.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_22.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #22",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 2550000,
+    "price_formatted": "Rp 2.550.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-130",
+    "filename": "08_STORY_Family_Edition_Slide_23.jpg",
+    "image_url": "/batik_assets/08_STORY_Family_Edition_Slide_23.jpg",
+    "name": "Sarimbit Keluarga Harmoni Seri #23",
+    "category": "Family Edition & Sarimbit",
+    "price_num": 2600000,
+    "price_formatted": "Rp 2.600.000",
+    "description": "Paket busana seragam keluarga (ayah, ibu, anak) dengan keserasian motif dan warna untuk hari raya & kondangan."
+  },
+  {
+    "id": "batik-131",
+    "filename": "08_STORY_How_to_order_Slide_01.jpg",
+    "image_url": "/batik_assets/08_STORY_How_to_order_Slide_01.jpg",
+    "name": "Panduan Alur Pemesanan & Jahit #01",
+    "category": "Panduan Pemesanan",
+    "price_num": 0,
+    "price_formatted": "Mudah & Terpercaya",
+    "description": "Langkah mudah memilih kain, konsultasi ukuran via online atau offline, hingga pengiriman pakaian jadi."
+  },
+  {
+    "id": "batik-132",
+    "filename": "08_STORY_How_to_order_Slide_02.jpg",
+    "image_url": "/batik_assets/08_STORY_How_to_order_Slide_02.jpg",
+    "name": "Panduan Alur Pemesanan & Jahit #02",
+    "category": "Panduan Pemesanan",
+    "price_num": 0,
+    "price_formatted": "Mudah & Terpercaya",
+    "description": "Langkah mudah memilih kain, konsultasi ukuran via online atau offline, hingga pengiriman pakaian jadi."
+  },
+  {
+    "id": "batik-133",
+    "filename": "08_STORY_Influencer_Slide_01.jpg",
+    "image_url": "/batik_assets/08_STORY_Influencer_Slide_01.jpg",
+    "name": "Tokoh & Figur Publik Berbusana Batik #01",
+    "category": "Tokoh & Influencer",
+    "price_num": 0,
+    "price_formatted": "Koleksi Favorit Tokoh",
+    "description": "Dokumentasi publik figur, pejabat, dan selebgram yang mempercayakan busana batiknya ke Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-134",
+    "filename": "08_STORY_Influencer_Slide_02.jpg",
+    "image_url": "/batik_assets/08_STORY_Influencer_Slide_02.jpg",
+    "name": "Tokoh & Figur Publik Berbusana Batik #02",
+    "category": "Tokoh & Influencer",
+    "price_num": 0,
+    "price_formatted": "Koleksi Favorit Tokoh",
+    "description": "Dokumentasi publik figur, pejabat, dan selebgram yang mempercayakan busana batiknya ke Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-135",
+    "filename": "08_STORY_Influencer_Slide_03.jpg",
+    "image_url": "/batik_assets/08_STORY_Influencer_Slide_03.jpg",
+    "name": "Tokoh & Figur Publik Berbusana Batik #03",
+    "category": "Tokoh & Influencer",
+    "price_num": 0,
+    "price_formatted": "Koleksi Favorit Tokoh",
+    "description": "Dokumentasi publik figur, pejabat, dan selebgram yang mempercayakan busana batiknya ke Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-136",
+    "filename": "08_STORY_Influencer_Slide_04.jpg",
+    "image_url": "/batik_assets/08_STORY_Influencer_Slide_04.jpg",
+    "name": "Tokoh & Figur Publik Berbusana Batik #04",
+    "category": "Tokoh & Influencer",
+    "price_num": 0,
+    "price_formatted": "Koleksi Favorit Tokoh",
+    "description": "Dokumentasi publik figur, pejabat, dan selebgram yang mempercayakan busana batiknya ke Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-137",
+    "filename": "08_STORY_Influencer_Slide_05.jpg",
+    "image_url": "/batik_assets/08_STORY_Influencer_Slide_05.jpg",
+    "name": "Tokoh & Figur Publik Berbusana Batik #05",
+    "category": "Tokoh & Influencer",
+    "price_num": 0,
+    "price_formatted": "Koleksi Favorit Tokoh",
+    "description": "Dokumentasi publik figur, pejabat, dan selebgram yang mempercayakan busana batiknya ke Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-138",
+    "filename": "08_STORY_Influencer_Slide_06.jpg",
+    "image_url": "/batik_assets/08_STORY_Influencer_Slide_06.jpg",
+    "name": "Tokoh & Figur Publik Berbusana Batik #06",
+    "category": "Tokoh & Influencer",
+    "price_num": 0,
+    "price_formatted": "Koleksi Favorit Tokoh",
+    "description": "Dokumentasi publik figur, pejabat, dan selebgram yang mempercayakan busana batiknya ke Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-139",
+    "filename": "08_STORY_Influencer_Slide_07.jpg",
+    "image_url": "/batik_assets/08_STORY_Influencer_Slide_07.jpg",
+    "name": "Tokoh & Figur Publik Berbusana Batik #07",
+    "category": "Tokoh & Influencer",
+    "price_num": 0,
+    "price_formatted": "Koleksi Favorit Tokoh",
+    "description": "Dokumentasi publik figur, pejabat, dan selebgram yang mempercayakan busana batiknya ke Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-140",
+    "filename": "08_STORY_Influencer_Slide_08.jpg",
+    "image_url": "/batik_assets/08_STORY_Influencer_Slide_08.jpg",
+    "name": "Tokoh & Figur Publik Berbusana Batik #08",
+    "category": "Tokoh & Influencer",
+    "price_num": 0,
+    "price_formatted": "Koleksi Favorit Tokoh",
+    "description": "Dokumentasi publik figur, pejabat, dan selebgram yang mempercayakan busana batiknya ke Rumah Batik Cipaku."
+  },
+  {
+    "id": "batik-141",
+    "filename": "08_STORY_Limandara_Batik_Slide_01.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_01.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Shibotik Indigo #01",
+    "category": "Limandara Batik Premium",
+    "price_num": 1915000,
+    "price_formatted": "Rp 1.915.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-142",
+    "filename": "08_STORY_Limandara_Batik_Slide_02.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_02.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Megamendung Sky #02",
+    "category": "Limandara Batik Premium",
+    "price_num": 1980000,
+    "price_formatted": "Rp 1.980.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-143",
+    "filename": "08_STORY_Limandara_Batik_Slide_03.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_03.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Kawung Galar #03",
+    "category": "Limandara Batik Premium",
+    "price_num": 2045000,
+    "price_formatted": "Rp 2.045.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-144",
+    "filename": "08_STORY_Limandara_Batik_Slide_04.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_04.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Sidomukti Luhur #04",
+    "category": "Limandara Batik Premium",
+    "price_num": 2110000,
+    "price_formatted": "Rp 2.110.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-145",
+    "filename": "08_STORY_Limandara_Batik_Slide_05.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_05.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Gurdo Pusaka #05",
+    "category": "Limandara Batik Premium",
+    "price_num": 2175000,
+    "price_formatted": "Rp 2.175.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-146",
+    "filename": "08_STORY_Limandara_Batik_Slide_06.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_06.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Sogan Nitik #06",
+    "category": "Limandara Batik Premium",
+    "price_num": 2240000,
+    "price_formatted": "Rp 2.240.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-147",
+    "filename": "08_STORY_Limandara_Batik_Slide_07.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_07.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Pekalongan Asri #07",
+    "category": "Limandara Batik Premium",
+    "price_num": 2305000,
+    "price_formatted": "Rp 2.305.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-148",
+    "filename": "08_STORY_Limandara_Batik_Slide_08.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_08.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Cirebonan Cendrawasih #08",
+    "category": "Limandara Batik Premium",
+    "price_num": 2370000,
+    "price_formatted": "Rp 2.370.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-149",
+    "filename": "08_STORY_Limandara_Batik_Slide_09.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_09.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Garutan Asri #09",
+    "category": "Limandara Batik Premium",
+    "price_num": 2435000,
+    "price_formatted": "Rp 2.435.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-150",
+    "filename": "08_STORY_Limandara_Batik_Slide_10.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_10.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Lereng Semut #10",
+    "category": "Limandara Batik Premium",
+    "price_num": 2500000,
+    "price_formatted": "Rp 2.500.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-151",
+    "filename": "08_STORY_Limandara_Batik_Slide_11.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_11.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Cuwiri Lung-Lungan #11",
+    "category": "Limandara Batik Premium",
+    "price_num": 2565000,
+    "price_formatted": "Rp 2.565.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-152",
+    "filename": "08_STORY_Limandara_Batik_Slide_12.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_12.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Tambal Kanoman #12",
+    "category": "Limandara Batik Premium",
+    "price_num": 2630000,
+    "price_formatted": "Rp 2.630.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-153",
+    "filename": "08_STORY_Limandara_Batik_Slide_13.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_13.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Sutra ATBM Barong #13",
+    "category": "Limandara Batik Premium",
+    "price_num": 2695000,
+    "price_formatted": "Rp 2.695.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-154",
+    "filename": "08_STORY_Limandara_Batik_Slide_14.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_14.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Sekar Jagad #14",
+    "category": "Limandara Batik Premium",
+    "price_num": 2760000,
+    "price_formatted": "Rp 2.760.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-155",
+    "filename": "08_STORY_Limandara_Batik_Slide_15.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_15.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Truntum Asih #15",
+    "category": "Limandara Batik Premium",
+    "price_num": 2825000,
+    "price_formatted": "Rp 2.825.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-156",
+    "filename": "08_STORY_Limandara_Batik_Slide_16.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_16.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Parang Kencana #16",
+    "category": "Limandara Batik Premium",
+    "price_num": 2890000,
+    "price_formatted": "Rp 2.890.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-157",
+    "filename": "08_STORY_Limandara_Batik_Slide_17.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_17.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Shibotik Indigo #17",
+    "category": "Limandara Batik Premium",
+    "price_num": 2955000,
+    "price_formatted": "Rp 2.955.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-158",
+    "filename": "08_STORY_Limandara_Batik_Slide_18.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_18.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Megamendung Sky #18",
+    "category": "Limandara Batik Premium",
+    "price_num": 3020000,
+    "price_formatted": "Rp 3.020.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-159",
+    "filename": "08_STORY_Limandara_Batik_Slide_19.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_19.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Kawung Galar #19",
+    "category": "Limandara Batik Premium",
+    "price_num": 3085000,
+    "price_formatted": "Rp 3.085.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-160",
+    "filename": "08_STORY_Limandara_Batik_Slide_20.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_20.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Sidomukti Luhur #20",
+    "category": "Limandara Batik Premium",
+    "price_num": 3150000,
+    "price_formatted": "Rp 3.150.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-161",
+    "filename": "08_STORY_Limandara_Batik_Slide_21.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_21.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Gurdo Pusaka #21",
+    "category": "Limandara Batik Premium",
+    "price_num": 3215000,
+    "price_formatted": "Rp 3.215.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-162",
+    "filename": "08_STORY_Limandara_Batik_Slide_22.jpg",
+    "image_url": "/batik_assets/08_STORY_Limandara_Batik_Slide_22.jpg",
+    "name": "Batik Tulis Limandara Eksklusif Sogan Nitik #22",
+    "category": "Limandara Batik Premium",
+    "price_num": 3280000,
+    "price_formatted": "Rp 3.280.000",
+    "description": "Mahakarya lini eksklusif Limandara Batik dengan pengerjaan canting tulis halus dan bahan sutra ATBM pilihan."
+  },
+  {
+    "id": "batik-163",
+    "filename": "08_STORY_New_Arrivals_2_Slide_01.jpg",
+    "image_url": "/batik_assets/08_STORY_New_Arrivals_2_Slide_01.jpg",
+    "name": "New Arrivals: Koleksi Terbaru Rilis #01",
+    "category": "Koleksi Terbaru",
+    "price_num": 825000,
+    "price_formatted": "Rp 825.000",
+    "description": "Koleksi motif dan model busana batik paling anyar yang baru saja selesai diproduksi dan masuk showroom."
+  },
+  {
+    "id": "batik-164",
+    "filename": "08_STORY_New_Arrivals_2_Slide_02.jpg",
+    "image_url": "/batik_assets/08_STORY_New_Arrivals_2_Slide_02.jpg",
+    "name": "New Arrivals: Koleksi Terbaru Rilis #02",
+    "category": "Koleksi Terbaru",
+    "price_num": 860000,
+    "price_formatted": "Rp 860.000",
+    "description": "Koleksi motif dan model busana batik paling anyar yang baru saja selesai diproduksi dan masuk showroom."
+  },
+  {
+    "id": "batik-165",
+    "filename": "08_STORY_New_Arrivals_2_Slide_03.jpg",
+    "image_url": "/batik_assets/08_STORY_New_Arrivals_2_Slide_03.jpg",
+    "name": "New Arrivals: Koleksi Terbaru Rilis #03",
+    "category": "Koleksi Terbaru",
+    "price_num": 895000,
+    "price_formatted": "Rp 895.000",
+    "description": "Koleksi motif dan model busana batik paling anyar yang baru saja selesai diproduksi dan masuk showroom."
+  },
+  {
+    "id": "batik-166",
+    "filename": "08_STORY_New_Arrivals_2_Slide_04.jpg",
+    "image_url": "/batik_assets/08_STORY_New_Arrivals_2_Slide_04.jpg",
+    "name": "New Arrivals: Koleksi Terbaru Rilis #04",
+    "category": "Koleksi Terbaru",
+    "price_num": 930000,
+    "price_formatted": "Rp 930.000",
+    "description": "Koleksi motif dan model busana batik paling anyar yang baru saja selesai diproduksi dan masuk showroom."
+  },
+  {
+    "id": "batik-167",
+    "filename": "08_STORY_New_Arrivals_2_Slide_05.jpg",
+    "image_url": "/batik_assets/08_STORY_New_Arrivals_2_Slide_05.jpg",
+    "name": "New Arrivals: Koleksi Terbaru Rilis #05",
+    "category": "Koleksi Terbaru",
+    "price_num": 965000,
+    "price_formatted": "Rp 965.000",
+    "description": "Koleksi motif dan model busana batik paling anyar yang baru saja selesai diproduksi dan masuk showroom."
+  },
+  {
+    "id": "batik-168",
+    "filename": "08_STORY_New_Arrivals_2_Slide_06.jpg",
+    "image_url": "/batik_assets/08_STORY_New_Arrivals_2_Slide_06.jpg",
+    "name": "New Arrivals: Koleksi Terbaru Rilis #06",
+    "category": "Koleksi Terbaru",
+    "price_num": 1000000,
+    "price_formatted": "Rp 1.000.000",
+    "description": "Koleksi motif dan model busana batik paling anyar yang baru saja selesai diproduksi dan masuk showroom."
+  },
+  {
+    "id": "batik-169",
+    "filename": "08_STORY_New_Arrivals_2_Slide_07.jpg",
+    "image_url": "/batik_assets/08_STORY_New_Arrivals_2_Slide_07.jpg",
+    "name": "New Arrivals: Koleksi Terbaru Rilis #07",
+    "category": "Koleksi Terbaru",
+    "price_num": 1035000,
+    "price_formatted": "Rp 1.035.000",
+    "description": "Koleksi motif dan model busana batik paling anyar yang baru saja selesai diproduksi dan masuk showroom."
+  },
+  {
+    "id": "batik-170",
+    "filename": "08_STORY_New_Arrivals_2_Slide_08.jpg",
+    "image_url": "/batik_assets/08_STORY_New_Arrivals_2_Slide_08.jpg",
+    "name": "New Arrivals: Koleksi Terbaru Rilis #08",
+    "category": "Koleksi Terbaru",
+    "price_num": 1070000,
+    "price_formatted": "Rp 1.070.000",
+    "description": "Koleksi motif dan model busana batik paling anyar yang baru saja selesai diproduksi dan masuk showroom."
+  },
+  {
+    "id": "batik-171",
+    "filename": "08_STORY_New_Arrivals_2_Slide_09.jpg",
+    "image_url": "/batik_assets/08_STORY_New_Arrivals_2_Slide_09.jpg",
+    "name": "New Arrivals: Koleksi Terbaru Rilis #09",
+    "category": "Koleksi Terbaru",
+    "price_num": 1105000,
+    "price_formatted": "Rp 1.105.000",
+    "description": "Koleksi motif dan model busana batik paling anyar yang baru saja selesai diproduksi dan masuk showroom."
+  },
+  {
+    "id": "batik-172",
+    "filename": "08_STORY_New_Arrivals_2_Slide_10.jpg",
+    "image_url": "/batik_assets/08_STORY_New_Arrivals_2_Slide_10.jpg",
+    "name": "New Arrivals: Koleksi Terbaru Rilis #10",
+    "category": "Koleksi Terbaru",
+    "price_num": 1140000,
+    "price_formatted": "Rp 1.140.000",
+    "description": "Koleksi motif dan model busana batik paling anyar yang baru saja selesai diproduksi dan masuk showroom."
+  },
+  {
+    "id": "batik-173",
+    "filename": "08_STORY_New_Arrivals_2_Slide_11.jpg",
+    "image_url": "/batik_assets/08_STORY_New_Arrivals_2_Slide_11.jpg",
+    "name": "New Arrivals: Koleksi Terbaru Rilis #11",
+    "category": "Koleksi Terbaru",
+    "price_num": 1175000,
+    "price_formatted": "Rp 1.175.000",
+    "description": "Koleksi motif dan model busana batik paling anyar yang baru saja selesai diproduksi dan masuk showroom."
+  },
+  {
+    "id": "batik-174",
+    "filename": "08_STORY_New_Arrivals_2_Slide_12.jpg",
+    "image_url": "/batik_assets/08_STORY_New_Arrivals_2_Slide_12.jpg",
+    "name": "New Arrivals: Koleksi Terbaru Rilis #12",
+    "category": "Koleksi Terbaru",
+    "price_num": 1210000,
+    "price_formatted": "Rp 1.210.000",
+    "description": "Koleksi motif dan model busana batik paling anyar yang baru saja selesai diproduksi dan masuk showroom."
+  },
+  {
+    "id": "batik-175",
+    "filename": "08_STORY_New_Arrivals_2_Slide_13.jpg",
+    "image_url": "/batik_assets/08_STORY_New_Arrivals_2_Slide_13.jpg",
+    "name": "New Arrivals: Koleksi Terbaru Rilis #13",
+    "category": "Koleksi Terbaru",
+    "price_num": 1245000,
+    "price_formatted": "Rp 1.245.000",
+    "description": "Koleksi motif dan model busana batik paling anyar yang baru saja selesai diproduksi dan masuk showroom."
+  },
+  {
+    "id": "batik-176",
+    "filename": "08_STORY_New_Arrivals_2_Slide_14.jpg",
+    "image_url": "/batik_assets/08_STORY_New_Arrivals_2_Slide_14.jpg",
+    "name": "New Arrivals: Koleksi Terbaru Rilis #14",
+    "category": "Koleksi Terbaru",
+    "price_num": 1280000,
+    "price_formatted": "Rp 1.280.000",
+    "description": "Koleksi motif dan model busana batik paling anyar yang baru saja selesai diproduksi dan masuk showroom."
+  },
+  {
+    "id": "batik-177",
+    "filename": "08_STORY_New_Arrivals_2_Slide_15.jpg",
+    "image_url": "/batik_assets/08_STORY_New_Arrivals_2_Slide_15.jpg",
+    "name": "New Arrivals: Koleksi Terbaru Rilis #15",
+    "category": "Koleksi Terbaru",
+    "price_num": 1315000,
+    "price_formatted": "Rp 1.315.000",
+    "description": "Koleksi motif dan model busana batik paling anyar yang baru saja selesai diproduksi dan masuk showroom."
+  },
+  {
+    "id": "batik-178",
+    "filename": "08_STORY_New_Arrivals_2_Slide_16.jpg",
+    "image_url": "/batik_assets/08_STORY_New_Arrivals_2_Slide_16.jpg",
+    "name": "New Arrivals: Koleksi Terbaru Rilis #16",
+    "category": "Koleksi Terbaru",
+    "price_num": 1350000,
+    "price_formatted": "Rp 1.350.000",
+    "description": "Koleksi motif dan model busana batik paling anyar yang baru saja selesai diproduksi dan masuk showroom."
+  },
+  {
+    "id": "batik-179",
+    "filename": "08_STORY_On_Sale_Slide_01.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_01.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #01",
+    "category": "Promo & On Sale",
+    "price_num": 612500,
+    "price_formatted": "Rp 612.500 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-180",
+    "filename": "08_STORY_On_Sale_Slide_02.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_02.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #02",
+    "category": "Promo & On Sale",
+    "price_num": 630000,
+    "price_formatted": "Rp 630.000 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-181",
+    "filename": "08_STORY_On_Sale_Slide_03.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_03.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #03",
+    "category": "Promo & On Sale",
+    "price_num": 647500,
+    "price_formatted": "Rp 647.500 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-182",
+    "filename": "08_STORY_On_Sale_Slide_04.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_04.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #04",
+    "category": "Promo & On Sale",
+    "price_num": 665000,
+    "price_formatted": "Rp 665.000 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-183",
+    "filename": "08_STORY_On_Sale_Slide_05.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_05.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #05",
+    "category": "Promo & On Sale",
+    "price_num": 682500,
+    "price_formatted": "Rp 682.500 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-184",
+    "filename": "08_STORY_On_Sale_Slide_06.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_06.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #06",
+    "category": "Promo & On Sale",
+    "price_num": 700000,
+    "price_formatted": "Rp 700.000 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-185",
+    "filename": "08_STORY_On_Sale_Slide_07.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_07.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #07",
+    "category": "Promo & On Sale",
+    "price_num": 717500,
+    "price_formatted": "Rp 717.500 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-186",
+    "filename": "08_STORY_On_Sale_Slide_08.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_08.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #08",
+    "category": "Promo & On Sale",
+    "price_num": 735000,
+    "price_formatted": "Rp 735.000 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-187",
+    "filename": "08_STORY_On_Sale_Slide_09.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_09.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #09",
+    "category": "Promo & On Sale",
+    "price_num": 752500,
+    "price_formatted": "Rp 752.500 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-188",
+    "filename": "08_STORY_On_Sale_Slide_10.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_10.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #10",
+    "category": "Promo & On Sale",
+    "price_num": 770000,
+    "price_formatted": "Rp 770.000 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-189",
+    "filename": "08_STORY_On_Sale_Slide_11.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_11.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #11",
+    "category": "Promo & On Sale",
+    "price_num": 787500,
+    "price_formatted": "Rp 787.500 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-190",
+    "filename": "08_STORY_On_Sale_Slide_12.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_12.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #12",
+    "category": "Promo & On Sale",
+    "price_num": 805000,
+    "price_formatted": "Rp 805.000 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-191",
+    "filename": "08_STORY_On_Sale_Slide_13.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_13.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #13",
+    "category": "Promo & On Sale",
+    "price_num": 822500,
+    "price_formatted": "Rp 822.500 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-192",
+    "filename": "08_STORY_On_Sale_Slide_14.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_14.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #14",
+    "category": "Promo & On Sale",
+    "price_num": 840000,
+    "price_formatted": "Rp 840.000 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-193",
+    "filename": "08_STORY_On_Sale_Slide_15.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_15.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #15",
+    "category": "Promo & On Sale",
+    "price_num": 857500,
+    "price_formatted": "Rp 857.500 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-194",
+    "filename": "08_STORY_On_Sale_Slide_16.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_16.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #16",
+    "category": "Promo & On Sale",
+    "price_num": 595000,
+    "price_formatted": "Rp 595.000 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-195",
+    "filename": "08_STORY_On_Sale_Slide_17.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_17.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #17",
+    "category": "Promo & On Sale",
+    "price_num": 612500,
+    "price_formatted": "Rp 612.500 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-196",
+    "filename": "08_STORY_On_Sale_Slide_18.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_18.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #18",
+    "category": "Promo & On Sale",
+    "price_num": 630000,
+    "price_formatted": "Rp 630.000 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-197",
+    "filename": "08_STORY_On_Sale_Slide_19.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_19.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #19",
+    "category": "Promo & On Sale",
+    "price_num": 647500,
+    "price_formatted": "Rp 647.500 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-198",
+    "filename": "08_STORY_On_Sale_Slide_20.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_20.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #20",
+    "category": "Promo & On Sale",
+    "price_num": 665000,
+    "price_formatted": "Rp 665.000 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-199",
+    "filename": "08_STORY_On_Sale_Slide_21.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_21.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #21",
+    "category": "Promo & On Sale",
+    "price_num": 682500,
+    "price_formatted": "Rp 682.500 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-200",
+    "filename": "08_STORY_On_Sale_Slide_22.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_22.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #22",
+    "category": "Promo & On Sale",
+    "price_num": 700000,
+    "price_formatted": "Rp 700.000 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-201",
+    "filename": "08_STORY_On_Sale_Slide_23.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_23.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #23",
+    "category": "Promo & On Sale",
+    "price_num": 717500,
+    "price_formatted": "Rp 717.500 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-202",
+    "filename": "08_STORY_On_Sale_Slide_24.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_24.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #24",
+    "category": "Promo & On Sale",
+    "price_num": 735000,
+    "price_formatted": "Rp 735.000 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-203",
+    "filename": "08_STORY_On_Sale_Slide_25.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_25.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #25",
+    "category": "Promo & On Sale",
+    "price_num": 752500,
+    "price_formatted": "Rp 752.500 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-204",
+    "filename": "08_STORY_On_Sale_Slide_26.jpg",
+    "image_url": "/batik_assets/08_STORY_On_Sale_Slide_26.jpg",
+    "name": "Batik Pilihan On Sale Diskon 30% #26",
+    "category": "Promo & On Sale",
+    "price_num": 770000,
+    "price_formatted": "Rp 770.000 (Hemat 30%)",
+    "description": "Koleksi busana batik pilihan ready stock dengan potongan harga spesial 30% cuci gudang galeri."
+  },
+  {
+    "id": "batik-205",
+    "filename": "08_STORY_Our_Store_Slide_01.jpg",
+    "image_url": "/batik_assets/08_STORY_Our_Store_Slide_01.jpg",
+    "name": "Tur Visual Galeri 1.200 m² #01",
+    "category": "Suasana Galeri & Toko",
+    "price_num": 0,
+    "price_formatted": "Kunjungan Bebas",
+    "description": "Suasana area pamer kain, ruang fitting ber-AC, taman asri, dan fasilitas belanja nyaman di Cipaku Indah Bandung."
+  },
+  {
+    "id": "batik-206",
+    "filename": "08_STORY_Our_Store_Slide_02.jpg",
+    "image_url": "/batik_assets/08_STORY_Our_Store_Slide_02.jpg",
+    "name": "Tur Visual Galeri 1.200 m² #02",
+    "category": "Suasana Galeri & Toko",
+    "price_num": 0,
+    "price_formatted": "Kunjungan Bebas",
+    "description": "Suasana area pamer kain, ruang fitting ber-AC, taman asri, dan fasilitas belanja nyaman di Cipaku Indah Bandung."
+  },
+  {
+    "id": "batik-207",
+    "filename": "08_STORY_Our_Store_Slide_03.jpg",
+    "image_url": "/batik_assets/08_STORY_Our_Store_Slide_03.jpg",
+    "name": "Tur Visual Galeri 1.200 m² #03",
+    "category": "Suasana Galeri & Toko",
+    "price_num": 0,
+    "price_formatted": "Kunjungan Bebas",
+    "description": "Suasana area pamer kain, ruang fitting ber-AC, taman asri, dan fasilitas belanja nyaman di Cipaku Indah Bandung."
+  },
+  {
+    "id": "batik-208",
+    "filename": "08_STORY_Our_Store_Slide_04.jpg",
+    "image_url": "/batik_assets/08_STORY_Our_Store_Slide_04.jpg",
+    "name": "Tur Visual Galeri 1.200 m² #04",
+    "category": "Suasana Galeri & Toko",
+    "price_num": 0,
+    "price_formatted": "Kunjungan Bebas",
+    "description": "Suasana area pamer kain, ruang fitting ber-AC, taman asri, dan fasilitas belanja nyaman di Cipaku Indah Bandung."
+  },
+  {
+    "id": "batik-209",
+    "filename": "08_STORY_Our_Store_Slide_05.jpg",
+    "image_url": "/batik_assets/08_STORY_Our_Store_Slide_05.jpg",
+    "name": "Tur Visual Galeri 1.200 m² #05",
+    "category": "Suasana Galeri & Toko",
+    "price_num": 0,
+    "price_formatted": "Kunjungan Bebas",
+    "description": "Suasana area pamer kain, ruang fitting ber-AC, taman asri, dan fasilitas belanja nyaman di Cipaku Indah Bandung."
+  },
+  {
+    "id": "batik-210",
+    "filename": "08_STORY_Our_Store_Slide_06.jpg",
+    "image_url": "/batik_assets/08_STORY_Our_Store_Slide_06.jpg",
+    "name": "Tur Visual Galeri 1.200 m² #06",
+    "category": "Suasana Galeri & Toko",
+    "price_num": 0,
+    "price_formatted": "Kunjungan Bebas",
+    "description": "Suasana area pamer kain, ruang fitting ber-AC, taman asri, dan fasilitas belanja nyaman di Cipaku Indah Bandung."
+  },
+  {
+    "id": "batik-211",
+    "filename": "08_STORY_Our_Store_Slide_07.jpg",
+    "image_url": "/batik_assets/08_STORY_Our_Store_Slide_07.jpg",
+    "name": "Tur Visual Galeri 1.200 m² #07",
+    "category": "Suasana Galeri & Toko",
+    "price_num": 0,
+    "price_formatted": "Kunjungan Bebas",
+    "description": "Suasana area pamer kain, ruang fitting ber-AC, taman asri, dan fasilitas belanja nyaman di Cipaku Indah Bandung."
+  },
+  {
+    "id": "batik-212",
+    "filename": "08_STORY_Our_Store_Slide_08.jpg",
+    "image_url": "/batik_assets/08_STORY_Our_Store_Slide_08.jpg",
+    "name": "Tur Visual Galeri 1.200 m² #08",
+    "category": "Suasana Galeri & Toko",
+    "price_num": 0,
+    "price_formatted": "Kunjungan Bebas",
+    "description": "Suasana area pamer kain, ruang fitting ber-AC, taman asri, dan fasilitas belanja nyaman di Cipaku Indah Bandung."
+  },
+  {
+    "id": "batik-213",
+    "filename": "08_STORY_Our_Store_Slide_09.jpg",
+    "image_url": "/batik_assets/08_STORY_Our_Store_Slide_09.jpg",
+    "name": "Tur Visual Galeri 1.200 m² #09",
+    "category": "Suasana Galeri & Toko",
+    "price_num": 0,
+    "price_formatted": "Kunjungan Bebas",
+    "description": "Suasana area pamer kain, ruang fitting ber-AC, taman asri, dan fasilitas belanja nyaman di Cipaku Indah Bandung."
+  },
+  {
+    "id": "batik-214",
+    "filename": "08_STORY_Our_Store_Slide_10.jpg",
+    "image_url": "/batik_assets/08_STORY_Our_Store_Slide_10.jpg",
+    "name": "Tur Visual Galeri 1.200 m² #10",
+    "category": "Suasana Galeri & Toko",
+    "price_num": 0,
+    "price_formatted": "Kunjungan Bebas",
+    "description": "Suasana area pamer kain, ruang fitting ber-AC, taman asri, dan fasilitas belanja nyaman di Cipaku Indah Bandung."
+  },
+  {
+    "id": "batik-215",
+    "filename": "08_STORY_Our_Store_Slide_11.jpg",
+    "image_url": "/batik_assets/08_STORY_Our_Store_Slide_11.jpg",
+    "name": "Tur Visual Galeri 1.200 m² #11",
+    "category": "Suasana Galeri & Toko",
+    "price_num": 0,
+    "price_formatted": "Kunjungan Bebas",
+    "description": "Suasana area pamer kain, ruang fitting ber-AC, taman asri, dan fasilitas belanja nyaman di Cipaku Indah Bandung."
+  },
+  {
+    "id": "batik-216",
+    "filename": "08_STORY_Our_Store_Slide_12.jpg",
+    "image_url": "/batik_assets/08_STORY_Our_Store_Slide_12.jpg",
+    "name": "Tur Visual Galeri 1.200 m² #12",
+    "category": "Suasana Galeri & Toko",
+    "price_num": 0,
+    "price_formatted": "Kunjungan Bebas",
+    "description": "Suasana area pamer kain, ruang fitting ber-AC, taman asri, dan fasilitas belanja nyaman di Cipaku Indah Bandung."
+  },
+  {
+    "id": "batik-217",
+    "filename": "08_STORY_Our_Store_Slide_13.jpg",
+    "image_url": "/batik_assets/08_STORY_Our_Store_Slide_13.jpg",
+    "name": "Tur Visual Galeri 1.200 m² #13",
+    "category": "Suasana Galeri & Toko",
+    "price_num": 0,
+    "price_formatted": "Kunjungan Bebas",
+    "description": "Suasana area pamer kain, ruang fitting ber-AC, taman asri, dan fasilitas belanja nyaman di Cipaku Indah Bandung."
+  },
+  {
+    "id": "batik-218",
+    "filename": "08_STORY_Our_Store_Slide_14.jpg",
+    "image_url": "/batik_assets/08_STORY_Our_Store_Slide_14.jpg",
+    "name": "Tur Visual Galeri 1.200 m² #14",
+    "category": "Suasana Galeri & Toko",
+    "price_num": 0,
+    "price_formatted": "Kunjungan Bebas",
+    "description": "Suasana area pamer kain, ruang fitting ber-AC, taman asri, dan fasilitas belanja nyaman di Cipaku Indah Bandung."
+  },
+  {
+    "id": "batik-219",
+    "filename": "08_STORY_Our_Store_Slide_15.jpg",
+    "image_url": "/batik_assets/08_STORY_Our_Store_Slide_15.jpg",
+    "name": "Tur Visual Galeri 1.200 m² #15",
+    "category": "Suasana Galeri & Toko",
+    "price_num": 0,
+    "price_formatted": "Kunjungan Bebas",
+    "description": "Suasana area pamer kain, ruang fitting ber-AC, taman asri, dan fasilitas belanja nyaman di Cipaku Indah Bandung."
+  },
+  {
+    "id": "batik-220",
+    "filename": "08_STORY_Ramadhan_Couple_Slide_01.jpg",
+    "image_url": "/batik_assets/08_STORY_Ramadhan_Couple_Slide_01.jpg",
+    "name": "Koleksi Ramadhan & Hari Raya Couple #01",
+    "category": "Ramadhan Series",
+    "price_num": 1430000,
+    "price_formatted": "Rp 1.430.000",
+    "description": "Koleksi busana muslim sarimbit edisi Ramadhan dan Idul Fitri dengan potongan syar'i modern nan mewah."
+  },
+  {
+    "id": "batik-221",
+    "filename": "08_STORY_Ramadhan_Couple_Slide_02.jpg",
+    "image_url": "/batik_assets/08_STORY_Ramadhan_Couple_Slide_02.jpg",
+    "name": "Koleksi Ramadhan & Hari Raya Couple #02",
+    "category": "Ramadhan Series",
+    "price_num": 1510000,
+    "price_formatted": "Rp 1.510.000",
+    "description": "Koleksi busana muslim sarimbit edisi Ramadhan dan Idul Fitri dengan potongan syar'i modern nan mewah."
+  },
+  {
+    "id": "batik-222",
+    "filename": "08_STORY_Ramadhan_Couple_Slide_03.jpg",
+    "image_url": "/batik_assets/08_STORY_Ramadhan_Couple_Slide_03.jpg",
+    "name": "Koleksi Ramadhan & Hari Raya Couple #03",
+    "category": "Ramadhan Series",
+    "price_num": 1590000,
+    "price_formatted": "Rp 1.590.000",
+    "description": "Koleksi busana muslim sarimbit edisi Ramadhan dan Idul Fitri dengan potongan syar'i modern nan mewah."
+  },
+  {
+    "id": "batik-223",
+    "filename": "08_STORY_Ramadhan_Couple_Slide_04.jpg",
+    "image_url": "/batik_assets/08_STORY_Ramadhan_Couple_Slide_04.jpg",
+    "name": "Koleksi Ramadhan & Hari Raya Couple #04",
+    "category": "Ramadhan Series",
+    "price_num": 1670000,
+    "price_formatted": "Rp 1.670.000",
+    "description": "Koleksi busana muslim sarimbit edisi Ramadhan dan Idul Fitri dengan potongan syar'i modern nan mewah."
+  },
+  {
+    "id": "batik-224",
+    "filename": "08_STORY_Testimony_3_Slide_01.jpg",
+    "image_url": "/batik_assets/08_STORY_Testimony_3_Slide_01.jpg",
+    "name": "Testimoni Kepuasan Pelanggan #01",
+    "category": "Testimoni Pelanggan",
+    "price_num": 0,
+    "price_formatted": "Rating 4.8 / 5.0",
+    "description": "Tangkapan layar kepuasan pelanggan atas kerapihan jahitan, kelembutan bahan, dan keramahan pelayanan galeri."
+  },
+  {
+    "id": "batik-225",
+    "filename": "08_STORY_Testimony_3_Slide_02.jpg",
+    "image_url": "/batik_assets/08_STORY_Testimony_3_Slide_02.jpg",
+    "name": "Testimoni Kepuasan Pelanggan #02",
+    "category": "Testimoni Pelanggan",
+    "price_num": 0,
+    "price_formatted": "Rating 4.8 / 5.0",
+    "description": "Tangkapan layar kepuasan pelanggan atas kerapihan jahitan, kelembutan bahan, dan keramahan pelayanan galeri."
+  },
+  {
+    "id": "batik-226",
+    "filename": "08_STORY_Testimony_3_Slide_03.jpg",
+    "image_url": "/batik_assets/08_STORY_Testimony_3_Slide_03.jpg",
+    "name": "Testimoni Kepuasan Pelanggan #03",
+    "category": "Testimoni Pelanggan",
+    "price_num": 0,
+    "price_formatted": "Rating 4.8 / 5.0",
+    "description": "Tangkapan layar kepuasan pelanggan atas kerapihan jahitan, kelembutan bahan, dan keramahan pelayanan galeri."
+  },
+  {
+    "id": "batik-227",
+    "filename": "08_STORY_Testimony_3_Slide_04.jpg",
+    "image_url": "/batik_assets/08_STORY_Testimony_3_Slide_04.jpg",
+    "name": "Testimoni Kepuasan Pelanggan #04",
+    "category": "Testimoni Pelanggan",
+    "price_num": 0,
+    "price_formatted": "Rating 4.8 / 5.0",
+    "description": "Tangkapan layar kepuasan pelanggan atas kerapihan jahitan, kelembutan bahan, dan keramahan pelayanan galeri."
+  },
+  {
+    "id": "batik-228",
+    "filename": "08_STORY_Testimony_3_Slide_05.jpg",
+    "image_url": "/batik_assets/08_STORY_Testimony_3_Slide_05.jpg",
+    "name": "Testimoni Kepuasan Pelanggan #05",
+    "category": "Testimoni Pelanggan",
+    "price_num": 0,
+    "price_formatted": "Rating 4.8 / 5.0",
+    "description": "Tangkapan layar kepuasan pelanggan atas kerapihan jahitan, kelembutan bahan, dan keramahan pelayanan galeri."
+  },
+  {
+    "id": "batik-229",
+    "filename": "08_STORY_Testimony_3_Slide_06.jpg",
+    "image_url": "/batik_assets/08_STORY_Testimony_3_Slide_06.jpg",
+    "name": "Testimoni Kepuasan Pelanggan #06",
+    "category": "Testimoni Pelanggan",
+    "price_num": 0,
+    "price_formatted": "Rating 4.8 / 5.0",
+    "description": "Tangkapan layar kepuasan pelanggan atas kerapihan jahitan, kelembutan bahan, dan keramahan pelayanan galeri."
+  },
+  {
+    "id": "batik-230",
+    "filename": "08_STORY_Testimony_3_Slide_07.jpg",
+    "image_url": "/batik_assets/08_STORY_Testimony_3_Slide_07.jpg",
+    "name": "Testimoni Kepuasan Pelanggan #07",
+    "category": "Testimoni Pelanggan",
+    "price_num": 0,
+    "price_formatted": "Rating 4.8 / 5.0",
+    "description": "Tangkapan layar kepuasan pelanggan atas kerapihan jahitan, kelembutan bahan, dan keramahan pelayanan galeri."
+  },
+  {
+    "id": "batik-231",
+    "filename": "08_STORY_Testimony_3_Slide_08.jpg",
+    "image_url": "/batik_assets/08_STORY_Testimony_3_Slide_08.jpg",
+    "name": "Testimoni Kepuasan Pelanggan #08",
+    "category": "Testimoni Pelanggan",
+    "price_num": 0,
+    "price_formatted": "Rating 4.8 / 5.0",
+    "description": "Tangkapan layar kepuasan pelanggan atas kerapihan jahitan, kelembutan bahan, dan keramahan pelayanan galeri."
+  },
+  {
+    "id": "batik-232",
+    "filename": "08_STORY_Testimony_3_Slide_09.jpg",
+    "image_url": "/batik_assets/08_STORY_Testimony_3_Slide_09.jpg",
+    "name": "Testimoni Kepuasan Pelanggan #09",
+    "category": "Testimoni Pelanggan",
+    "price_num": 0,
+    "price_formatted": "Rating 4.8 / 5.0",
+    "description": "Tangkapan layar kepuasan pelanggan atas kerapihan jahitan, kelembutan bahan, dan keramahan pelayanan galeri."
+  },
+  {
+    "id": "batik-233",
+    "filename": "08_STORY_Testimony_3_Slide_10.jpg",
+    "image_url": "/batik_assets/08_STORY_Testimony_3_Slide_10.jpg",
+    "name": "Testimoni Kepuasan Pelanggan #10",
+    "category": "Testimoni Pelanggan",
+    "price_num": 0,
+    "price_formatted": "Rating 4.8 / 5.0",
+    "description": "Tangkapan layar kepuasan pelanggan atas kerapihan jahitan, kelembutan bahan, dan keramahan pelayanan galeri."
+  },
+  {
+    "id": "batik-234",
+    "filename": "08_STORY_Testimony_3_Slide_11.jpg",
+    "image_url": "/batik_assets/08_STORY_Testimony_3_Slide_11.jpg",
+    "name": "Testimoni Kepuasan Pelanggan #11",
+    "category": "Testimoni Pelanggan",
+    "price_num": 0,
+    "price_formatted": "Rating 4.8 / 5.0",
+    "description": "Tangkapan layar kepuasan pelanggan atas kerapihan jahitan, kelembutan bahan, dan keramahan pelayanan galeri."
+  },
+  {
+    "id": "batik-235",
+    "filename": "08_STORY_Testimony_3_Slide_12.jpg",
+    "image_url": "/batik_assets/08_STORY_Testimony_3_Slide_12.jpg",
+    "name": "Testimoni Kepuasan Pelanggan #12",
+    "category": "Testimoni Pelanggan",
+    "price_num": 0,
+    "price_formatted": "Rating 4.8 / 5.0",
+    "description": "Tangkapan layar kepuasan pelanggan atas kerapihan jahitan, kelembutan bahan, dan keramahan pelayanan galeri."
+  },
+  {
+    "id": "batik-236",
+    "filename": "08_STORY_Testimony_3_Slide_13.jpg",
+    "image_url": "/batik_assets/08_STORY_Testimony_3_Slide_13.jpg",
+    "name": "Testimoni Kepuasan Pelanggan #13",
+    "category": "Testimoni Pelanggan",
+    "price_num": 0,
+    "price_formatted": "Rating 4.8 / 5.0",
+    "description": "Tangkapan layar kepuasan pelanggan atas kerapihan jahitan, kelembutan bahan, dan keramahan pelayanan galeri."
+  },
+  {
+    "id": "batik-237",
+    "filename": "08_STORY_Testimony_3_Slide_14.jpg",
+    "image_url": "/batik_assets/08_STORY_Testimony_3_Slide_14.jpg",
+    "name": "Testimoni Kepuasan Pelanggan #14",
+    "category": "Testimoni Pelanggan",
+    "price_num": 0,
+    "price_formatted": "Rating 4.8 / 5.0",
+    "description": "Tangkapan layar kepuasan pelanggan atas kerapihan jahitan, kelembutan bahan, dan keramahan pelayanan galeri."
+  },
+  {
+    "id": "batik-238",
+    "filename": "08_STORY_Testimony_3_Slide_15.jpg",
+    "image_url": "/batik_assets/08_STORY_Testimony_3_Slide_15.jpg",
+    "name": "Testimoni Kepuasan Pelanggan #15",
+    "category": "Testimoni Pelanggan",
+    "price_num": 0,
+    "price_formatted": "Rating 4.8 / 5.0",
+    "description": "Tangkapan layar kepuasan pelanggan atas kerapihan jahitan, kelembutan bahan, dan keramahan pelayanan galeri."
+  },
+  {
+    "id": "batik-239",
+    "filename": "08_STORY_Testimony_3_Slide_16.jpg",
+    "image_url": "/batik_assets/08_STORY_Testimony_3_Slide_16.jpg",
+    "name": "Testimoni Kepuasan Pelanggan #16",
+    "category": "Testimoni Pelanggan",
+    "price_num": 0,
+    "price_formatted": "Rating 4.8 / 5.0",
+    "description": "Tangkapan layar kepuasan pelanggan atas kerapihan jahitan, kelembutan bahan, dan keramahan pelayanan galeri."
+  },
+  {
+    "id": "batik-240",
+    "filename": "08_STORY_WomenCollection_Slide_01.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_01.jpg",
+    "name": "Tunik Sutra Modern Sekar Jagad #01",
+    "category": "Women Collection",
+    "price_num": 712000,
+    "price_formatted": "Rp 712.000",
+    "description": "Tunik Sutra Modern beraksen motif Sekar Jagad khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-241",
+    "filename": "08_STORY_WomenCollection_Slide_02.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_02.jpg",
+    "name": "Blouse Asimetris Dobby Truntum Asih #02",
+    "category": "Women Collection",
+    "price_num": 744000,
+    "price_formatted": "Rp 744.000",
+    "description": "Blouse Asimetris Dobby beraksen motif Truntum Asih khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-242",
+    "filename": "08_STORY_WomenCollection_Slide_03.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_03.jpg",
+    "name": "Gaun Silk Shibotik Parang Kencana #03",
+    "category": "Women Collection",
+    "price_num": 776000,
+    "price_formatted": "Rp 776.000",
+    "description": "Gaun Silk Shibotik beraksen motif Parang Kencana khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-243",
+    "filename": "08_STORY_WomenCollection_Slide_04.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_04.jpg",
+    "name": "Outer Kencana Wungu Shibotik Indigo #04",
+    "category": "Women Collection",
+    "price_num": 808000,
+    "price_formatted": "Rp 808.000",
+    "description": "Outer Kencana Wungu beraksen motif Shibotik Indigo khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-244",
+    "filename": "08_STORY_WomenCollection_Slide_05.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_05.jpg",
+    "name": "Kebayang Modern Kartini Megamendung Sky #05",
+    "category": "Women Collection",
+    "price_num": 840000,
+    "price_formatted": "Rp 840.000",
+    "description": "Kebayang Modern Kartini beraksen motif Megamendung Sky khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-245",
+    "filename": "08_STORY_WomenCollection_Slide_06.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_06.jpg",
+    "name": "Dress Pesta Eksklusif Kawung Galar #06",
+    "category": "Women Collection",
+    "price_num": 872000,
+    "price_formatted": "Rp 872.000",
+    "description": "Dress Pesta Eksklusif beraksen motif Kawung Galar khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-246",
+    "filename": "08_STORY_WomenCollection_Slide_07.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_07.jpg",
+    "name": "Setelan Kulot & Atasan Sidomukti Luhur #07",
+    "category": "Women Collection",
+    "price_num": 904000,
+    "price_formatted": "Rp 904.000",
+    "description": "Setelan Kulot & Atasan beraksen motif Sidomukti Luhur khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-247",
+    "filename": "08_STORY_WomenCollection_Slide_08.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_08.jpg",
+    "name": "Kemeja Wanita Tailored Gurdo Pusaka #08",
+    "category": "Women Collection",
+    "price_num": 936000,
+    "price_formatted": "Rp 936.000",
+    "description": "Kemeja Wanita Tailored beraksen motif Gurdo Pusaka khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-248",
+    "filename": "08_STORY_WomenCollection_Slide_09.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_09.jpg",
+    "name": "Kimono Outer Silk Sogan Nitik #09",
+    "category": "Women Collection",
+    "price_num": 968000,
+    "price_formatted": "Rp 968.000",
+    "description": "Kimono Outer Silk beraksen motif Sogan Nitik khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-249",
+    "filename": "08_STORY_WomenCollection_Slide_10.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_10.jpg",
+    "name": "Maxi Dress Flowy Pekalongan Asri #10",
+    "category": "Women Collection",
+    "price_num": 1000000,
+    "price_formatted": "Rp 1.000.000",
+    "description": "Maxi Dress Flowy beraksen motif Pekalongan Asri khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-250",
+    "filename": "08_STORY_WomenCollection_Slide_11.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_11.jpg",
+    "name": "Blazer Batik Kantor Cirebonan Cendrawasih #11",
+    "category": "Women Collection",
+    "price_num": 1032000,
+    "price_formatted": "Rp 1.032.000",
+    "description": "Blazer Batik Kantor beraksen motif Cirebonan Cendrawasih khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-251",
+    "filename": "08_STORY_WomenCollection_Slide_12.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_12.jpg",
+    "name": "Tunik Kerah Sanghai Garutan Asri #12",
+    "category": "Women Collection",
+    "price_num": 1064000,
+    "price_formatted": "Rp 1.064.000",
+    "description": "Tunik Kerah Sanghai beraksen motif Garutan Asri khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-252",
+    "filename": "08_STORY_WomenCollection_Slide_13.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_13.jpg",
+    "name": "Tunik Sutra Modern Lereng Semut #13",
+    "category": "Women Collection",
+    "price_num": 1096000,
+    "price_formatted": "Rp 1.096.000",
+    "description": "Tunik Sutra Modern beraksen motif Lereng Semut khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-253",
+    "filename": "08_STORY_WomenCollection_Slide_14.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_14.jpg",
+    "name": "Blouse Asimetris Dobby Cuwiri Lung-Lungan #14",
+    "category": "Women Collection",
+    "price_num": 1128000,
+    "price_formatted": "Rp 1.128.000",
+    "description": "Blouse Asimetris Dobby beraksen motif Cuwiri Lung-Lungan khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-254",
+    "filename": "08_STORY_WomenCollection_Slide_15.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_15.jpg",
+    "name": "Gaun Silk Shibotik Tambal Kanoman #15",
+    "category": "Women Collection",
+    "price_num": 1160000,
+    "price_formatted": "Rp 1.160.000",
+    "description": "Gaun Silk Shibotik beraksen motif Tambal Kanoman khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-255",
+    "filename": "08_STORY_WomenCollection_Slide_16.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_16.jpg",
+    "name": "Outer Kencana Wungu Sutra ATBM Barong #16",
+    "category": "Women Collection",
+    "price_num": 1192000,
+    "price_formatted": "Rp 1.192.000",
+    "description": "Outer Kencana Wungu beraksen motif Sutra ATBM Barong khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-256",
+    "filename": "08_STORY_WomenCollection_Slide_17.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_17.jpg",
+    "name": "Kebayang Modern Kartini Sekar Jagad #17",
+    "category": "Women Collection",
+    "price_num": 1224000,
+    "price_formatted": "Rp 1.224.000",
+    "description": "Kebayang Modern Kartini beraksen motif Sekar Jagad khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-257",
+    "filename": "08_STORY_WomenCollection_Slide_18.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_18.jpg",
+    "name": "Dress Pesta Eksklusif Truntum Asih #18",
+    "category": "Women Collection",
+    "price_num": 1256000,
+    "price_formatted": "Rp 1.256.000",
+    "description": "Dress Pesta Eksklusif beraksen motif Truntum Asih khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-258",
+    "filename": "08_STORY_WomenCollection_Slide_19.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_19.jpg",
+    "name": "Setelan Kulot & Atasan Parang Kencana #19",
+    "category": "Women Collection",
+    "price_num": 1288000,
+    "price_formatted": "Rp 1.288.000",
+    "description": "Setelan Kulot & Atasan beraksen motif Parang Kencana khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-259",
+    "filename": "08_STORY_WomenCollection_Slide_20.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_20.jpg",
+    "name": "Kemeja Wanita Tailored Shibotik Indigo #20",
+    "category": "Women Collection",
+    "price_num": 1320000,
+    "price_formatted": "Rp 1.320.000",
+    "description": "Kemeja Wanita Tailored beraksen motif Shibotik Indigo khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-260",
+    "filename": "08_STORY_WomenCollection_Slide_21.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_21.jpg",
+    "name": "Kimono Outer Silk Megamendung Sky #21",
+    "category": "Women Collection",
+    "price_num": 1352000,
+    "price_formatted": "Rp 1.352.000",
+    "description": "Kimono Outer Silk beraksen motif Megamendung Sky khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-261",
+    "filename": "08_STORY_WomenCollection_Slide_22.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_22.jpg",
+    "name": "Maxi Dress Flowy Kawung Galar #22",
+    "category": "Women Collection",
+    "price_num": 1384000,
+    "price_formatted": "Rp 1.384.000",
+    "description": "Maxi Dress Flowy beraksen motif Kawung Galar khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-262",
+    "filename": "08_STORY_WomenCollection_Slide_23.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_23.jpg",
+    "name": "Blazer Batik Kantor Sidomukti Luhur #23",
+    "category": "Women Collection",
+    "price_num": 1416000,
+    "price_formatted": "Rp 1.416.000",
+    "description": "Blazer Batik Kantor beraksen motif Sidomukti Luhur khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-263",
+    "filename": "08_STORY_WomenCollection_Slide_24.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_24.jpg",
+    "name": "Tunik Kerah Sanghai Gurdo Pusaka #24",
+    "category": "Women Collection",
+    "price_num": 1448000,
+    "price_formatted": "Rp 1.448.000",
+    "description": "Tunik Kerah Sanghai beraksen motif Gurdo Pusaka khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-264",
+    "filename": "08_STORY_WomenCollection_Slide_25.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_25.jpg",
+    "name": "Tunik Sutra Modern Sogan Nitik #25",
+    "category": "Women Collection",
+    "price_num": 1480000,
+    "price_formatted": "Rp 1.480.000",
+    "description": "Tunik Sutra Modern beraksen motif Sogan Nitik khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-265",
+    "filename": "08_STORY_WomenCollection_Slide_26.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_26.jpg",
+    "name": "Blouse Asimetris Dobby Pekalongan Asri #26",
+    "category": "Women Collection",
+    "price_num": 1512000,
+    "price_formatted": "Rp 1.512.000",
+    "description": "Blouse Asimetris Dobby beraksen motif Pekalongan Asri khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-266",
+    "filename": "08_STORY_WomenCollection_Slide_27.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_27.jpg",
+    "name": "Gaun Silk Shibotik Cirebonan Cendrawasih #27",
+    "category": "Women Collection",
+    "price_num": 1544000,
+    "price_formatted": "Rp 1.544.000",
+    "description": "Gaun Silk Shibotik beraksen motif Cirebonan Cendrawasih khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-267",
+    "filename": "08_STORY_WomenCollection_Slide_28.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_28.jpg",
+    "name": "Outer Kencana Wungu Garutan Asri #28",
+    "category": "Women Collection",
+    "price_num": 1576000,
+    "price_formatted": "Rp 1.576.000",
+    "description": "Outer Kencana Wungu beraksen motif Garutan Asri khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-268",
+    "filename": "08_STORY_WomenCollection_Slide_29.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_29.jpg",
+    "name": "Kebayang Modern Kartini Lereng Semut #29",
+    "category": "Women Collection",
+    "price_num": 1608000,
+    "price_formatted": "Rp 1.608.000",
+    "description": "Kebayang Modern Kartini beraksen motif Lereng Semut khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-269",
+    "filename": "08_STORY_WomenCollection_Slide_30.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_30.jpg",
+    "name": "Dress Pesta Eksklusif Cuwiri Lung-Lungan #30",
+    "category": "Women Collection",
+    "price_num": 690000,
+    "price_formatted": "Rp 690.000",
+    "description": "Dress Pesta Eksklusif beraksen motif Cuwiri Lung-Lungan khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-270",
+    "filename": "08_STORY_WomenCollection_Slide_31.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_31.jpg",
+    "name": "Setelan Kulot & Atasan Tambal Kanoman #31",
+    "category": "Women Collection",
+    "price_num": 722000,
+    "price_formatted": "Rp 722.000",
+    "description": "Setelan Kulot & Atasan beraksen motif Tambal Kanoman khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-271",
+    "filename": "08_STORY_WomenCollection_Slide_32.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_32.jpg",
+    "name": "Kemeja Wanita Tailored Sutra ATBM Barong #32",
+    "category": "Women Collection",
+    "price_num": 754000,
+    "price_formatted": "Rp 754.000",
+    "description": "Kemeja Wanita Tailored beraksen motif Sutra ATBM Barong khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-272",
+    "filename": "08_STORY_WomenCollection_Slide_33.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_33.jpg",
+    "name": "Kimono Outer Silk Sekar Jagad #33",
+    "category": "Women Collection",
+    "price_num": 786000,
+    "price_formatted": "Rp 786.000",
+    "description": "Kimono Outer Silk beraksen motif Sekar Jagad khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-273",
+    "filename": "08_STORY_WomenCollection_Slide_34.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_34.jpg",
+    "name": "Maxi Dress Flowy Truntum Asih #34",
+    "category": "Women Collection",
+    "price_num": 818000,
+    "price_formatted": "Rp 818.000",
+    "description": "Maxi Dress Flowy beraksen motif Truntum Asih khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-274",
+    "filename": "08_STORY_WomenCollection_Slide_35.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_35.jpg",
+    "name": "Blazer Batik Kantor Parang Kencana #35",
+    "category": "Women Collection",
+    "price_num": 850000,
+    "price_formatted": "Rp 850.000",
+    "description": "Blazer Batik Kantor beraksen motif Parang Kencana khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-275",
+    "filename": "08_STORY_WomenCollection_Slide_36.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_36.jpg",
+    "name": "Tunik Kerah Sanghai Shibotik Indigo #36",
+    "category": "Women Collection",
+    "price_num": 882000,
+    "price_formatted": "Rp 882.000",
+    "description": "Tunik Kerah Sanghai beraksen motif Shibotik Indigo khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-276",
+    "filename": "08_STORY_WomenCollection_Slide_37.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_37.jpg",
+    "name": "Tunik Sutra Modern Megamendung Sky #37",
+    "category": "Women Collection",
+    "price_num": 914000,
+    "price_formatted": "Rp 914.000",
+    "description": "Tunik Sutra Modern beraksen motif Megamendung Sky khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-277",
+    "filename": "08_STORY_WomenCollection_Slide_38.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_38.jpg",
+    "name": "Blouse Asimetris Dobby Kawung Galar #38",
+    "category": "Women Collection",
+    "price_num": 946000,
+    "price_formatted": "Rp 946.000",
+    "description": "Blouse Asimetris Dobby beraksen motif Kawung Galar khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-278",
+    "filename": "08_STORY_WomenCollection_Slide_39.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_39.jpg",
+    "name": "Gaun Silk Shibotik Sidomukti Luhur #39",
+    "category": "Women Collection",
+    "price_num": 978000,
+    "price_formatted": "Rp 978.000",
+    "description": "Gaun Silk Shibotik beraksen motif Sidomukti Luhur khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-279",
+    "filename": "08_STORY_WomenCollection_Slide_40.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_40.jpg",
+    "name": "Outer Kencana Wungu Gurdo Pusaka #40",
+    "category": "Women Collection",
+    "price_num": 1010000,
+    "price_formatted": "Rp 1.010.000",
+    "description": "Outer Kencana Wungu beraksen motif Gurdo Pusaka khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-280",
+    "filename": "08_STORY_WomenCollection_Slide_41.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_41.jpg",
+    "name": "Kebayang Modern Kartini Sogan Nitik #41",
+    "category": "Women Collection",
+    "price_num": 1042000,
+    "price_formatted": "Rp 1.042.000",
+    "description": "Kebayang Modern Kartini beraksen motif Sogan Nitik khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-281",
+    "filename": "08_STORY_WomenCollection_Slide_42.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_42.jpg",
+    "name": "Dress Pesta Eksklusif Pekalongan Asri #42",
+    "category": "Women Collection",
+    "price_num": 1074000,
+    "price_formatted": "Rp 1.074.000",
+    "description": "Dress Pesta Eksklusif beraksen motif Pekalongan Asri khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-282",
+    "filename": "08_STORY_WomenCollection_Slide_43.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_43.jpg",
+    "name": "Setelan Kulot & Atasan Cirebonan Cendrawasih #43",
+    "category": "Women Collection",
+    "price_num": 1106000,
+    "price_formatted": "Rp 1.106.000",
+    "description": "Setelan Kulot & Atasan beraksen motif Cirebonan Cendrawasih khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-283",
+    "filename": "08_STORY_WomenCollection_Slide_44.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_44.jpg",
+    "name": "Kemeja Wanita Tailored Garutan Asri #44",
+    "category": "Women Collection",
+    "price_num": 1138000,
+    "price_formatted": "Rp 1.138.000",
+    "description": "Kemeja Wanita Tailored beraksen motif Garutan Asri khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-284",
+    "filename": "08_STORY_WomenCollection_Slide_45.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_45.jpg",
+    "name": "Kimono Outer Silk Lereng Semut #45",
+    "category": "Women Collection",
+    "price_num": 1170000,
+    "price_formatted": "Rp 1.170.000",
+    "description": "Kimono Outer Silk beraksen motif Lereng Semut khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-285",
+    "filename": "08_STORY_WomenCollection_Slide_46.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_46.jpg",
+    "name": "Maxi Dress Flowy Cuwiri Lung-Lungan #46",
+    "category": "Women Collection",
+    "price_num": 1202000,
+    "price_formatted": "Rp 1.202.000",
+    "description": "Maxi Dress Flowy beraksen motif Cuwiri Lung-Lungan khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-286",
+    "filename": "08_STORY_WomenCollection_Slide_47.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_47.jpg",
+    "name": "Blazer Batik Kantor Tambal Kanoman #47",
+    "category": "Women Collection",
+    "price_num": 1234000,
+    "price_formatted": "Rp 1.234.000",
+    "description": "Blazer Batik Kantor beraksen motif Tambal Kanoman khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-287",
+    "filename": "08_STORY_WomenCollection_Slide_48.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_48.jpg",
+    "name": "Tunik Kerah Sanghai Sutra ATBM Barong #48",
+    "category": "Women Collection",
+    "price_num": 1266000,
+    "price_formatted": "Rp 1.266.000",
+    "description": "Tunik Kerah Sanghai beraksen motif Sutra ATBM Barong khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-288",
+    "filename": "08_STORY_WomenCollection_Slide_49.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_49.jpg",
+    "name": "Tunik Sutra Modern Sekar Jagad #49",
+    "category": "Women Collection",
+    "price_num": 1298000,
+    "price_formatted": "Rp 1.298.000",
+    "description": "Tunik Sutra Modern beraksen motif Sekar Jagad khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-289",
+    "filename": "08_STORY_WomenCollection_Slide_50.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_50.jpg",
+    "name": "Blouse Asimetris Dobby Truntum Asih #50",
+    "category": "Women Collection",
+    "price_num": 1330000,
+    "price_formatted": "Rp 1.330.000",
+    "description": "Blouse Asimetris Dobby beraksen motif Truntum Asih khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-290",
+    "filename": "08_STORY_WomenCollection_Slide_51.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_51.jpg",
+    "name": "Gaun Silk Shibotik Parang Kencana #51",
+    "category": "Women Collection",
+    "price_num": 1362000,
+    "price_formatted": "Rp 1.362.000",
+    "description": "Gaun Silk Shibotik beraksen motif Parang Kencana khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-291",
+    "filename": "08_STORY_WomenCollection_Slide_52.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_52.jpg",
+    "name": "Outer Kencana Wungu Shibotik Indigo #52",
+    "category": "Women Collection",
+    "price_num": 1394000,
+    "price_formatted": "Rp 1.394.000",
+    "description": "Outer Kencana Wungu beraksen motif Shibotik Indigo khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-292",
+    "filename": "08_STORY_WomenCollection_Slide_53.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_53.jpg",
+    "name": "Kebayang Modern Kartini Megamendung Sky #53",
+    "category": "Women Collection",
+    "price_num": 1426000,
+    "price_formatted": "Rp 1.426.000",
+    "description": "Kebayang Modern Kartini beraksen motif Megamendung Sky khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-293",
+    "filename": "08_STORY_WomenCollection_Slide_54.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_54.jpg",
+    "name": "Dress Pesta Eksklusif Kawung Galar #54",
+    "category": "Women Collection",
+    "price_num": 1458000,
+    "price_formatted": "Rp 1.458.000",
+    "description": "Dress Pesta Eksklusif beraksen motif Kawung Galar khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-294",
+    "filename": "08_STORY_WomenCollection_Slide_55.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_55.jpg",
+    "name": "Setelan Kulot & Atasan Sidomukti Luhur #55",
+    "category": "Women Collection",
+    "price_num": 1490000,
+    "price_formatted": "Rp 1.490.000",
+    "description": "Setelan Kulot & Atasan beraksen motif Sidomukti Luhur khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-295",
+    "filename": "08_STORY_WomenCollection_Slide_56.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_56.jpg",
+    "name": "Kemeja Wanita Tailored Gurdo Pusaka #56",
+    "category": "Women Collection",
+    "price_num": 1522000,
+    "price_formatted": "Rp 1.522.000",
+    "description": "Kemeja Wanita Tailored beraksen motif Gurdo Pusaka khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-296",
+    "filename": "08_STORY_WomenCollection_Slide_57.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_57.jpg",
+    "name": "Kimono Outer Silk Sogan Nitik #57",
+    "category": "Women Collection",
+    "price_num": 1554000,
+    "price_formatted": "Rp 1.554.000",
+    "description": "Kimono Outer Silk beraksen motif Sogan Nitik khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-297",
+    "filename": "08_STORY_WomenCollection_Slide_58.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_58.jpg",
+    "name": "Maxi Dress Flowy Pekalongan Asri #58",
+    "category": "Women Collection",
+    "price_num": 1586000,
+    "price_formatted": "Rp 1.586.000",
+    "description": "Maxi Dress Flowy beraksen motif Pekalongan Asri khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-298",
+    "filename": "08_STORY_WomenCollection_Slide_59.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_59.jpg",
+    "name": "Blazer Batik Kantor Cirebonan Cendrawasih #59",
+    "category": "Women Collection",
+    "price_num": 1618000,
+    "price_formatted": "Rp 1.618.000",
+    "description": "Blazer Batik Kantor beraksen motif Cirebonan Cendrawasih khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-299",
+    "filename": "08_STORY_WomenCollection_Slide_60.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_60.jpg",
+    "name": "Tunik Kerah Sanghai Garutan Asri #60",
+    "category": "Women Collection",
+    "price_num": 700000,
+    "price_formatted": "Rp 700.000",
+    "description": "Tunik Kerah Sanghai beraksen motif Garutan Asri khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-300",
+    "filename": "08_STORY_WomenCollection_Slide_61.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_61.jpg",
+    "name": "Tunik Sutra Modern Lereng Semut #61",
+    "category": "Women Collection",
+    "price_num": 732000,
+    "price_formatted": "Rp 732.000",
+    "description": "Tunik Sutra Modern beraksen motif Lereng Semut khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-301",
+    "filename": "08_STORY_WomenCollection_Slide_62.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_62.jpg",
+    "name": "Blouse Asimetris Dobby Cuwiri Lung-Lungan #62",
+    "category": "Women Collection",
+    "price_num": 764000,
+    "price_formatted": "Rp 764.000",
+    "description": "Blouse Asimetris Dobby beraksen motif Cuwiri Lung-Lungan khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-302",
+    "filename": "08_STORY_WomenCollection_Slide_63.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_63.jpg",
+    "name": "Gaun Silk Shibotik Tambal Kanoman #63",
+    "category": "Women Collection",
+    "price_num": 796000,
+    "price_formatted": "Rp 796.000",
+    "description": "Gaun Silk Shibotik beraksen motif Tambal Kanoman khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-303",
+    "filename": "08_STORY_WomenCollection_Slide_64.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_64.jpg",
+    "name": "Outer Kencana Wungu Sutra ATBM Barong #64",
+    "category": "Women Collection",
+    "price_num": 828000,
+    "price_formatted": "Rp 828.000",
+    "description": "Outer Kencana Wungu beraksen motif Sutra ATBM Barong khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-304",
+    "filename": "08_STORY_WomenCollection_Slide_65.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_65.jpg",
+    "name": "Kebayang Modern Kartini Sekar Jagad #65",
+    "category": "Women Collection",
+    "price_num": 860000,
+    "price_formatted": "Rp 860.000",
+    "description": "Kebayang Modern Kartini beraksen motif Sekar Jagad khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-305",
+    "filename": "08_STORY_WomenCollection_Slide_66.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_66.jpg",
+    "name": "Dress Pesta Eksklusif Truntum Asih #66",
+    "category": "Women Collection",
+    "price_num": 892000,
+    "price_formatted": "Rp 892.000",
+    "description": "Dress Pesta Eksklusif beraksen motif Truntum Asih khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-306",
+    "filename": "08_STORY_WomenCollection_Slide_67.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_67.jpg",
+    "name": "Setelan Kulot & Atasan Parang Kencana #67",
+    "category": "Women Collection",
+    "price_num": 924000,
+    "price_formatted": "Rp 924.000",
+    "description": "Setelan Kulot & Atasan beraksen motif Parang Kencana khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-307",
+    "filename": "08_STORY_WomenCollection_Slide_68.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_68.jpg",
+    "name": "Kemeja Wanita Tailored Shibotik Indigo #68",
+    "category": "Women Collection",
+    "price_num": 956000,
+    "price_formatted": "Rp 956.000",
+    "description": "Kemeja Wanita Tailored beraksen motif Shibotik Indigo khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-308",
+    "filename": "08_STORY_WomenCollection_Slide_69.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_69.jpg",
+    "name": "Kimono Outer Silk Megamendung Sky #69",
+    "category": "Women Collection",
+    "price_num": 988000,
+    "price_formatted": "Rp 988.000",
+    "description": "Kimono Outer Silk beraksen motif Megamendung Sky khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-309",
+    "filename": "08_STORY_WomenCollection_Slide_70.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_70.jpg",
+    "name": "Maxi Dress Flowy Kawung Galar #70",
+    "category": "Women Collection",
+    "price_num": 1020000,
+    "price_formatted": "Rp 1.020.000",
+    "description": "Maxi Dress Flowy beraksen motif Kawung Galar khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-310",
+    "filename": "08_STORY_WomenCollection_Slide_71.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_71.jpg",
+    "name": "Blazer Batik Kantor Sidomukti Luhur #71",
+    "category": "Women Collection",
+    "price_num": 1052000,
+    "price_formatted": "Rp 1.052.000",
+    "description": "Blazer Batik Kantor beraksen motif Sidomukti Luhur khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-311",
+    "filename": "08_STORY_WomenCollection_Slide_72.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_72.jpg",
+    "name": "Tunik Kerah Sanghai Gurdo Pusaka #72",
+    "category": "Women Collection",
+    "price_num": 1084000,
+    "price_formatted": "Rp 1.084.000",
+    "description": "Tunik Kerah Sanghai beraksen motif Gurdo Pusaka khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-312",
+    "filename": "08_STORY_WomenCollection_Slide_73.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_73.jpg",
+    "name": "Tunik Sutra Modern Sogan Nitik #73",
+    "category": "Women Collection",
+    "price_num": 1116000,
+    "price_formatted": "Rp 1.116.000",
+    "description": "Tunik Sutra Modern beraksen motif Sogan Nitik khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-313",
+    "filename": "08_STORY_WomenCollection_Slide_74.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_74.jpg",
+    "name": "Blouse Asimetris Dobby Pekalongan Asri #74",
+    "category": "Women Collection",
+    "price_num": 1148000,
+    "price_formatted": "Rp 1.148.000",
+    "description": "Blouse Asimetris Dobby beraksen motif Pekalongan Asri khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-314",
+    "filename": "08_STORY_WomenCollection_Slide_75.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_75.jpg",
+    "name": "Gaun Silk Shibotik Cirebonan Cendrawasih #75",
+    "category": "Women Collection",
+    "price_num": 1180000,
+    "price_formatted": "Rp 1.180.000",
+    "description": "Gaun Silk Shibotik beraksen motif Cirebonan Cendrawasih khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-315",
+    "filename": "08_STORY_WomenCollection_Slide_76.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_76.jpg",
+    "name": "Outer Kencana Wungu Garutan Asri #76",
+    "category": "Women Collection",
+    "price_num": 1212000,
+    "price_formatted": "Rp 1.212.000",
+    "description": "Outer Kencana Wungu beraksen motif Garutan Asri khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-316",
+    "filename": "08_STORY_WomenCollection_Slide_77.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_77.jpg",
+    "name": "Kebayang Modern Kartini Lereng Semut #77",
+    "category": "Women Collection",
+    "price_num": 1244000,
+    "price_formatted": "Rp 1.244.000",
+    "description": "Kebayang Modern Kartini beraksen motif Lereng Semut khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-317",
+    "filename": "08_STORY_WomenCollection_Slide_78.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_78.jpg",
+    "name": "Dress Pesta Eksklusif Cuwiri Lung-Lungan #78",
+    "category": "Women Collection",
+    "price_num": 1276000,
+    "price_formatted": "Rp 1.276.000",
+    "description": "Dress Pesta Eksklusif beraksen motif Cuwiri Lung-Lungan khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-318",
+    "filename": "08_STORY_WomenCollection_Slide_79.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_79.jpg",
+    "name": "Setelan Kulot & Atasan Tambal Kanoman #79",
+    "category": "Women Collection",
+    "price_num": 1308000,
+    "price_formatted": "Rp 1.308.000",
+    "description": "Setelan Kulot & Atasan beraksen motif Tambal Kanoman khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-319",
+    "filename": "08_STORY_WomenCollection_Slide_80.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_80.jpg",
+    "name": "Kemeja Wanita Tailored Sutra ATBM Barong #80",
+    "category": "Women Collection",
+    "price_num": 1340000,
+    "price_formatted": "Rp 1.340.000",
+    "description": "Kemeja Wanita Tailored beraksen motif Sutra ATBM Barong khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-320",
+    "filename": "08_STORY_WomenCollection_Slide_81.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_81.jpg",
+    "name": "Kimono Outer Silk Sekar Jagad #81",
+    "category": "Women Collection",
+    "price_num": 1372000,
+    "price_formatted": "Rp 1.372.000",
+    "description": "Kimono Outer Silk beraksen motif Sekar Jagad khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-321",
+    "filename": "08_STORY_WomenCollection_Slide_82.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_82.jpg",
+    "name": "Maxi Dress Flowy Truntum Asih #82",
+    "category": "Women Collection",
+    "price_num": 1404000,
+    "price_formatted": "Rp 1.404.000",
+    "description": "Maxi Dress Flowy beraksen motif Truntum Asih khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  },
+  {
+    "id": "batik-322",
+    "filename": "08_STORY_WomenCollection_Slide_83.jpg",
+    "image_url": "/batik_assets/08_STORY_WomenCollection_Slide_83.jpg",
+    "name": "Blazer Batik Kantor Parang Kencana #83",
+    "category": "Women Collection",
+    "price_num": 1436000,
+    "price_formatted": "Rp 1.436.000",
+    "description": "Blazer Batik Kantor beraksen motif Parang Kencana khas Rumah Batik Cipaku. Bahan adem, jahitan rapi berstandar butik."
+  }
+]

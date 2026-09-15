@@ -1,0 +1,16 @@
+# Ignore unused legacy scraped images from original Charles & Keith
+dw/
+
+# Ignore local preview screenshots
+*.png
+!batik_assets/*.png
+
+# Ignore backups and python files
+*.bak
+*.original_ck_bak
+__pycache__/
+serve.py
+
+# Git
+.git/
+.gitignore

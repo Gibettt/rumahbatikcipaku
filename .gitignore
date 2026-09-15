@@ -1,0 +1,15 @@
+# Unused legacy scraped images
+dw/
+
+# Local previews
+*.png
+!batik_assets/*.png
+
+# Backups and scripts
+*.bak
+*.original_ck_bak
+__pycache__/
+*.pyc
+
+# Vercel deployment folder
+.vercel/

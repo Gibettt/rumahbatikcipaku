@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[4772],{54772(s){s.exports={showShareIcon(){$(".js-social_share").removeClass("share_visibility")}}}}]);

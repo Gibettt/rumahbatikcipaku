@@ -1,0 +1,128 @@
+    
+    <div class="content-asset content_asset-bottom_tracking_hint"><!-- dwMarker="content" dwContentID="9b7fb949ab04e50adef09da511" -->
+        <script>
+	$(document).ready(function () {
+	
+	        function showRevampedCookieConsent() {
+	            const $cookiePopupBody = $('.sticky_cookie-content');
+	            if ($cookiePopupBody.hasClass('revamped_cookie-content')) {
+	                $cookiePopupBody.closest('.sticky_cookie').addClass('revamped_sticky_cookie').removeClass('sticky_cookie');
+	            }
+	        }
+	
+	        // Function to show cookie consent popup and add overlay dynamically
+	        function showCookieConsent() {
+	            const cookiePopup = document.querySelector('.sticky_cookie');
+	
+	            if (cookiePopup) {
+	                // Dynamically create the overlay element if not already present
+	                if (!document.getElementById('overlay')) {
+	                    document.body.insertAdjacentHTML('beforeend', '<div id="overlay"></div>');
+	                    document.body.classList.add('modal-open'); // Add class when overlay is added
+	                }
+	
+	                // Show the overlay and cookie consent popup
+	                document.getElementById('overlay').style.display = 'block';
+	                cookiePopup.style.display = 'block';
+	            }
+	        }
+	
+	        // MutationObserver to detect when .sticky_cookie is added to the DOM
+	        const observer = new MutationObserver((mutationsList) => {
+	            for (const mutation of mutationsList) {
+	                if (mutation.type === 'childList') {
+	                    const cookiePopup = document.querySelector('.sticky_cookie');
+	                    if (cookiePopup) {
+	                        showCookieConsent();
+	                        showRevampedCookieConsent();
+	                        observer.disconnect(); // Stop observing once found
+	                    }
+	                }
+	            }
+	        });
+	
+	        // Start observing the body for added nodes
+	        observer.observe(document.body, { childList: true, subtree: true });
+	
+	        // Event delegation for dynamically added elements
+	        document.addEventListener('click', function (event) {
+	            if (event.target.classList.contains('closePopup')) {
+	                const overlay = document.getElementById('overlay');
+	                const cookiePopup = document.querySelector('.sticky_cookie');
+	
+	                if (overlay) {
+	                    overlay.style.display = 'none';
+	                    document.body.classList.remove('modal-open'); // Remove class when overlay is hidden
+	                }
+	                if (cookiePopup) cookiePopup.style.display = 'none';
+	            }
+	        });
+	    });
+</script>
+<style>
+	/* Overlay style */
+	    #overlay {
+	        position: fixed;
+	        top: 0;
+	        left: 0;
+	        width: 100%;
+	        height: 100%;
+	        background-color: rgba(0, 0, 0, 0.7);
+	        /* Dark transparent background */
+	        z-index: 1020;
+	        /* Make sure it's on top of the page content */
+	        display: none;
+	        /* Initially hidden */
+	    }
+	
+	    .sticky_cookie,
+	    .revamped_sticky_cookie {
+	        z-index: 1021;
+	    }
+	
+	    .page_header {
+	        z-index: 999;
+	    }
+	
+	    .page-flex .header_banner {
+	        z-index: 999;
+	    }
+	
+	    .sticky_cookie,
+	    .revamped_sticky_cookie {
+	        bottom: auto;
+	        width: 688px;
+	        transform: translate(-50%, -50%);
+	        top: 50%;
+	        left: 50%;
+	    }
+	
+	    .sticky_cookie-content {
+	        display: block;
+	    }
+	
+	    @media screen and (max-width: 991px) {
+	
+	        .sticky_cookie,
+	        .revamped_sticky_cookie {
+	            width: 74%;
+	        }
+	    }
+	
+	    @media screen and (max-width: 767px) {
+	
+	        .sticky_cookie,
+	        .revamped_sticky_cookie {
+	            width: 100%;
+	        }
+	    }
+</style>
+<div class="revamped_sticky_cookie-content revamped_cookie-content">
+	<div class="revamped_sticky_cookie-hint">Kami menggunakan cookie untuk memberikan pengalaman terbaik saat mengakses web kami. Dengan mengklik 'Terima', Anda memberikan persetujuan Anda untuk mengizinkan semua cookie. Anda dapat mengubah preferensi Anda kapan saja melalui <a href="/id/information/cookies-policy.html" class="revamped_sticky_cookie-link">Kebijakan Cookie</a> kami. Anda juga dapat membaca lebih lanjut mengenai <a href="/id/information/privacy-policy.html" class="revamped_sticky_cookie-link">Kebijakan Privasi</a> kami secara lengkap.</div>
+	<div class="revamped_sticky_cookie-buttons js-consent_tracking-form">
+		<button class="affirm btn btn-outline-dark changeContent" data-url="/on/demandware.store/Sites-ck-idn-Site/in_ID/ConsentTracking-GetContent?cid=your-cookie-preferences" data-heading="CHANGE PREFERENCES">Ubah Preferensi</button>
+		<button class="affirm btn btn-primary closePopup" test-cookie-close data-url="/on/demandware.store/Sites-ck-idn-Site/in_ID/ConsentTracking-SetSession?consent=true&amp;advertising=true&amp;customization=true">Terima</button>
+	</div>
+</div>
+    </div> <!-- End content-asset -->
+

@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[2287],{12287(r){class o{constructor(){this.url=window.urls.errorLogUrl}log(r){const o=new FormData;o.append("logData",JSON.stringify(r)),navigator.sendBeacon(this.url,o)}}r.exports=()=>{window.errorLogging=new o}}}]);

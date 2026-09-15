@@ -1,0 +1,326 @@
+/* stylelint-disable scss/dollar-variable-pattern */
+/* stylelint-enable scss/dollar-variable-pattern */
+/* correction for product tile hover border*/
+.findInStore_modal {
+    padding-right: 0 !important;
+}
+.findInStore_modal-layout {
+    padding: 0;
+}
+.findInStore_modal-dialog {
+    height: 100%;
+}
+@media (min-width: 1024px) {
+    .findInStore_modal-dialog {
+        width: 804px;
+        height: auto;
+    }
+}
+.findInStore_modal-status {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.findInStore_modal-underline {
+    margin-top: 10px;
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.findInStore_modal-underline:focus {
+    outline: none;
+}
+.findInStore_modal-underline:active {
+    outline: none;
+}
+.findInStore_modal-close {
+    display: flex;
+    justify-content: center;
+}
+.findInStore_modal-body {
+    padding: 17px 4px;
+}
+@media (min-width: 1024px) {
+    .findInStore_modal-body {
+        padding: 17px 25px 28px;
+    }
+}
+.findInStore_modal-title_wrap {
+    position: relative;
+}
+.findInStore_modal-back {
+    position: absolute;
+    top: -14px;
+    left: 0;
+    text-decoration: none;
+}
+@media (min-width: 1024px) {
+    .findInStore_modal-back {
+        top: 14px;
+    }
+}
+.findInStore_modal-back:hover {
+    text-decoration: none;
+}
+.findInStore_modal-back_txt {
+    display: none;
+}
+@media (min-width: 1024px) {
+    .findInStore_modal-back_txt {
+        display: inline-block;
+        margin-left: 5px;
+        text-decoration: underline;
+    }
+}
+.findInStore_modal-back_icon {
+    width: 9px;
+    height: 15px;
+}
+.findInStore_modal-title {
+    padding-bottom: 12px;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+}
+@media (min-width: 1024px) {
+    .findInStore_modal-title {
+        padding-top: 15px;
+        padding-bottom: 2px;
+        border-bottom: 0;
+    }
+}
+@media (min-width: 1024px) {
+    .findInStore_modal-heading {
+        font-size: 24px;
+    }
+}
+@media (min-width: 1024px) {
+    .findInStore_modal-product_col {
+        max-width: 258px;
+    }
+}
+.findInStore_modal-product_detail {
+    padding: 19px 0 0;
+}
+.findInStore_modal-product_tile {
+    display: flex;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+@media (min-width: 1024px) {
+    .findInStore_modal-product_tile {
+        flex-wrap: wrap;
+        padding-right: 39px;
+        padding-bottom: 0;
+        border-right: 1px solid #ccc;
+        border-bottom: 0;
+    }
+}
+.findInStore_modal-product_img_wrap {
+    width: 100px;
+    min-height: 80px;
+}
+@media (min-width: 1024px) {
+    .findInStore_modal-product_img_wrap {
+        width: 100%;
+        min-height: 251px;
+    }
+}
+.findInStore_modal-product_meta {
+    padding-left: 10px;
+}
+@media (min-width: 1024px) {
+    .findInStore_modal-product_meta {
+        margin-top: 10px;
+        padding-left: 0;
+    }
+}
+.findInStore_modal-badge_wrap {
+    line-height: 12px;
+}
+.findInStore_modal-badge {
+    margin-bottom: 4px;
+    padding-right: 1em;
+    padding-left: 1em;
+}
+.findInStore_modal-sku {
+    padding-top: 0;
+}
+.findInStore_modal-price {
+    margin-top: 13px;
+}
+.findInStore_modal-one_line_attrs {
+    font-weight: 700;
+}
+.findInStore_modal-content_inner {
+    margin-top: 18px;
+}
+@media (min-width: 1024px) {
+    .findInStore_modal-content_inner {
+        margin-top: 0;
+        padding-left: 10px;
+    }
+}
+@media (min-width: 1024px) {
+    .findInStore_modal-product_attrs {
+        padding-right: 61px;
+    }
+}
+.findInStore_modal-content_desc p {
+    margin-bottom: 0;
+}
+.findInStore_modal-attrs {
+    margin-top: 30px;
+}
+.findInStore_modal-attrs .pdp-attr {
+    border-bottom: none;
+}
+.findInStore_modal-attrs .attribute-title {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.findInStore_modal-attrs .attribute-availability {
+    display: none;
+}
+@media (max-width: 767.98px) {
+    .findInStore_modal-sizes {
+        padding: 0 5px 5px;
+    }
+}
+.findInStore_modal-submit {
+    margin-top: 20px;
+}
+.findInStore_modal-submit:disabled {
+    color: #fff;
+    border-color: #333;
+    background-color: #333;
+    opacity: 0.2;
+}
+
+.store_acc_list {
+    margin-top: 18px;
+}
+@media (min-width: 1024px) {
+    .store_acc_list {
+        margin-top: 0;
+        padding-left: 10px;
+    }
+}
+.store_acc_list-items_wrap {
+    margin-top: 29px;
+}
+.store_acc_list-items {
+    margin: 0;
+}
+@media (min-width: 1024px) {
+    .store_acc_list-items {
+        max-height: 302px;
+        overflow-y: auto;
+    }
+}
+
+.store_option {
+    margin-top: 25px;
+}
+
+.store + .store {
+    margin-top: 11px;
+}
+.store-collapse_icon {
+    width: 5px;
+    height: 10px;
+    margin-left: 2px;
+    transform: rotate(90deg);
+    transform-origin: 100%;
+    transition: transform 0.2s;
+}
+.collapsed .store-collapse_icon {
+    transform: rotate(0);
+}
+.store-name {
+    margin-left: 14px;
+}
+.store-availability {
+    min-width: 113px;
+}
+.store-status {
+    width: 12px;
+    height: 12px;
+}
+.store-status--custom_danger {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+.store-status--custom_warning {
+    background-color: rgba(255, 153, 0, 0.5);
+}
+.store-status--custom_success {
+    background-color: rgba(0, 204, 0, 0.5);
+}
+.store-info {
+    padding-bottom: 14px;
+    padding-left: 23px;
+}
+.findInStore_modal .store-info {
+    box-sizing: border-box;
+    padding: 0 10px 23px;
+}
+.store address {
+    margin-bottom: 0;
+}
+.store-address {
+    display: flex;
+    justify-content: space-between;
+}
+.store-address_value {
+    flex-shrink: 1;
+    padding-right: 20px;
+}
+.store-direction {
+    display: flex;
+    align-items: flex-end;
+    min-width: 108px;
+}
+.store-direction_icon {
+    margin-bottom: 2px;
+}
+.findInStore_modal .store-direction_icon {
+    margin: 0 3px 2px;
+}
+.store-direction_link, .store-direction_link:hover {
+    text-decoration: none;
+}
+.store-contact {
+    margin-top: 12px;
+}
+@media (min-width: 1024px) {
+    .store-contact {
+        margin-top: 17px;
+    }
+}
+.store-contact_link {
+    text-decoration: underline;
+}
+@media (min-width: 1024px) {
+    .store-contact_link {
+        text-decoration: none;
+    }
+}
+.store-phone {
+    margin-top: 21px;
+}
+.store-border {
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.store_collapse {
+    cursor: pointer;
+}
+.store_collapse-title {
+    flex: 1 1 auto;
+    margin-bottom: 0;
+    font-weight: 700;
+}
+.store_collapse.collapsed .store_collapse-title {
+    padding-bottom: 12px;
+    font-weight: 400;
+}
